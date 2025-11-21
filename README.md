@@ -235,16 +235,16 @@ PIPELINE COMPLETED SUCCESSFULLY!
 ======================================================================
 FINAL RESULTS SUMMARY
 ======================================================================
-Runs: ['53.59%', '52.63%', '54.07%', '52.63%', '54.07%']
-Average: 53.40%
-Std Dev: 0.65%
+Runs: ['56.94%', '57.89%', '57.89%', '57.89%', '57.89%']
+Average: 57.70%
+Std Dev: 0.38%
 
 Dimension-wise Accuracy:
-  Causal: 50.00%
-  Counterfactual: 32.82%
-  Factual: 65.91%
-  Predictive: 61.95%
-  Temporal: 54.42%
+  Causal: 56.19%
+  Counterfactual: 47.18%
+  Factual: 60.45%
+  Predictive: 72.20%
+  Temporal: 52.09%
 ======================================================================
 PIPELINE COMPLETED SUCCESSFULLY!
 ======================================================================
