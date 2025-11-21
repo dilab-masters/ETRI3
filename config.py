@@ -39,7 +39,7 @@ QA_FILTER_SUFFIX = "_QA_filtered.json"
 ROSCOE_SCORE_SUFFIX = "_roscoe_scores.json"
 RATIONALE_VALIDATED_SUFFIX = "_with_Rationale_validated.json"
 
-CHROMA_DB_DIRECTORY = os.path.join(BASE_DIR, "External", "Data", "bge_wiki_chroma_db")
+CHROMA_DB_DIRECTORY = os.path.join(".", "External", "Data", "bge_wiki_chroma_db")
 CHROMA_COLLECTION_NAME = "bge_wiki_rag_collection"
 
 
