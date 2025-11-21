@@ -1,0 +1,2602 @@
+[
+    {
+        "VideoID": "2401167740",
+        "question": "how did the man show that he enjoyed the drink",
+        "options": {
+            "a": "moving animation",
+            "b": "cover his body fully",
+            "c": "thick clothes",
+            "d": "he keeps doing it",
+            "e": "smile"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4189100053",
+        "question": "why does the woman lick her finger after wipe the boy s mouth",
+        "options": {
+            "a": "to suck it clean",
+            "b": "eat more",
+            "c": "guide them",
+            "d": "to scream",
+            "e": "lick cream off"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "5940941487",
+        "question": "why is the girl hitting the box that she is sitting on",
+        "options": {
+            "a": "try to play",
+            "b": "birthday celebration",
+            "c": "to pose",
+            "d": "playing the instrument",
+            "e": "open the box"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "2434859163",
+        "question": "why are the polar bears in the waters at this time of the day",
+        "options": {
+            "a": "swimming",
+            "b": "bathing",
+            "c": "escpaing heat",
+            "d": "finding food",
+            "e": "washing up"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "7533369046",
+        "question": "how does the baby move around",
+        "options": {
+            "a": "swing in her arms",
+            "b": "crawl",
+            "c": "walking with toy car",
+            "d": "cradle",
+            "e": "push with stroller"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "5926256714",
+        "question": "why does the man assists the boy",
+        "options": {
+            "a": "prevent falling off",
+            "b": "boy is injured",
+            "c": "teaching boy to swim",
+            "d": "heavy bag",
+            "e": "learning how to walk"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4584426085",
+        "question": "why did the puppy end up in front of the lady sitting cross legged at the end",
+        "options": {
+            "a": "dragged over by lady",
+            "b": "oversee them",
+            "c": "attracted by toy car",
+            "d": "sit on his own",
+            "e": "leash got tangled"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "2573424030",
+        "question": "why does the dog stretch its hands out constantly at the end of the video",
+        "options": {
+            "a": "itchy",
+            "b": "asking for more treats",
+            "c": "to ask for toy",
+            "d": "watching it",
+            "e": "attract baby s attention"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6024684644",
+        "question": "why did the lady look at the man while he digs the hole",
+        "options": {
+            "a": "ensure his safety",
+            "b": "learning from him",
+            "c": "to see how he digs",
+            "d": "bored",
+            "e": "the lady asking questions"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "8253302563",
+        "question": "how does the boy enter the toy car at the start",
+        "options": {
+            "a": "remote controlled",
+            "b": "step up into the car",
+            "c": "pushing",
+            "d": "remote control",
+            "e": "jump around it"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "11503803033",
+        "question": "how do the people move themselves forward on snow",
+        "options": {
+            "a": "push the stick backwards",
+            "b": "on sled",
+            "c": "fly in plane",
+            "d": "jump over snow pile",
+            "e": "pulled by horse"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "5635265624",
+        "question": "how does the lady show affection to the baby",
+        "options": {
+            "a": "pat head",
+            "b": "move it towards the baby",
+            "c": "kiss the baby",
+            "d": "put baby on her lap",
+            "e": "caress baby head"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "8552680285",
+        "question": "why is there two ropes tied to the person standing",
+        "options": {
+            "a": "to support the person",
+            "b": "prop for photo",
+            "c": "safety harness",
+            "d": "pull the sleigh",
+            "e": "playing tug of war"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4798585428",
+        "question": "why did the man in red hug the woman in black after a while",
+        "options": {
+            "a": "indicate her turn to speak",
+            "b": "make a toast to celebrate",
+            "c": "posing for a candid picture",
+            "d": "dance along for fun",
+            "e": "wipe off sweat"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "3804148568",
+        "question": "why did the man in all black pointing to their swords while the two people are practising with them",
+        "options": {
+            "a": "guide man",
+            "b": "introduce his stuff",
+            "c": "count the bullets",
+            "d": "show where to hit",
+            "e": "to give affirmation"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "2736413196",
+        "question": "why is the man in black looking at the laptop",
+        "options": {
+            "a": "looking at boy cut wood",
+            "b": "charging laptop",
+            "c": "listening to the other man",
+            "d": "change direction",
+            "e": "focusing on computer"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "8797589693",
+        "question": "why is the man at the front of the room moving his arm",
+        "options": {
+            "a": "stretching",
+            "b": "showing affection",
+            "c": "cheer for performance",
+            "d": "play guitar",
+            "e": "gesturing while talking"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "11670386946",
+        "question": "why is the big silver aeroplane at an indoor space",
+        "options": {
+            "a": "work",
+            "b": "moving his body with the rhythm",
+            "c": "forgot to be closed",
+            "d": "presents wrappers",
+            "e": "display for exhibition"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4217422838",
+        "question": "why is the boy seatin down on the floor with a lot green boxes",
+        "options": {
+            "a": "free hands for other toys",
+            "b": "he fell",
+            "c": "push the skateboard",
+            "d": "boxing",
+            "e": "playing with it"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4087654898",
+        "question": "how did the children fill up the bucket",
+        "options": {
+            "a": "turn on the tap",
+            "b": "through straw",
+            "c": "person bringing food to baby mouth",
+            "d": "touch the top of bottle",
+            "e": "sit around on the floor"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6265968082",
+        "question": "why is the man at the back holding a pair of drumsticks in the middle of the video",
+        "options": {
+            "a": "cleaning his drumsticks",
+            "b": "taking a photo",
+            "c": "practicing his strength",
+            "d": "performing the drum",
+            "e": "poking the other guitarists"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "2696280239",
+        "question": "why does the man fall on ground",
+        "options": {
+            "a": "fell backwards",
+            "b": "snow is slippery",
+            "c": "loses the support of the rope",
+            "d": "let baby get off",
+            "e": "bull moving too violently"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6727904179",
+        "question": "why did the lady point her finger in a direction",
+        "options": {
+            "a": "point to camera",
+            "b": "to show boy where to go",
+            "c": "dance move",
+            "d": "demonstrating an exercise",
+            "e": "taking video"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "7999756100",
+        "question": "why did the man in blue hold his phone",
+        "options": {
+            "a": "record scenery",
+            "b": "record performance",
+            "c": "to answer call",
+            "d": "playing games",
+            "e": "taking group photo"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "12392885583",
+        "question": "why did the man in long sleeves hold out his arms",
+        "options": {
+            "a": "to give pacifier to baby",
+            "b": "prevent from falling",
+            "c": "to give baby food",
+            "d": "keep the baby sleeping",
+            "e": "hold for better support"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4915733559",
+        "question": "why did the baby step on a black platform beside the sofa when looking at the phone",
+        "options": {
+            "a": "lift himself up",
+            "b": "fell down",
+            "c": "clean itself",
+            "d": "lady puts him there",
+            "e": "being tested"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4635309062",
+        "question": "why does the man in black have to bend down at the beginning",
+        "options": {
+            "a": "hand gesture while talking",
+            "b": "to prepare food",
+            "c": "watching boy play",
+            "d": "assist the chef",
+            "e": "shield from sunlight"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6168295272",
+        "question": "how is the boy in purple rested on the lady in black",
+        "options": {
+            "a": "crawl on her back",
+            "b": "on her shoulders",
+            "c": "sitting on her knees",
+            "d": "lie on lap",
+            "e": "on her back"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "11670386946",
+        "question": "why is the man wearing a brown reading a piece of paper while pointing at the side",
+        "options": {
+            "a": "show something on the laptop",
+            "b": "read to the audience",
+            "c": "giving speech",
+            "d": "refer to what he says",
+            "e": "showing where the display is"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4757890069",
+        "question": "why are there light flashing as they move forwards",
+        "options": {
+            "a": "from the camera",
+            "b": "stage lights",
+            "c": "light bulb blinking",
+            "d": "power failure",
+            "e": "emergency lights"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6356067859",
+        "question": "why did the boy reach out his hand towards the horse",
+        "options": {
+            "a": "holding the food for horse",
+            "b": "to touch horse",
+            "c": "to ride horse",
+            "d": "look at horse",
+            "e": "to clean horse"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6806999702",
+        "question": "why does the child run after the ball",
+        "options": {
+            "a": "to pick up the ball",
+            "b": "put it in a better place",
+            "c": "want to keep the ball",
+            "d": "the ball was about to roll on the streets",
+            "e": "prevent dog from taking the ball"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "5987365500",
+        "question": "why does the girl tie a ribbon on her hair",
+        "options": {
+            "a": "to look pretty",
+            "b": "part of pink costume",
+            "c": "check how dress looks on her",
+            "d": "to clip fake hair",
+            "e": "follow other kids"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "9213637099",
+        "question": "why is the lady demonstrating how to execute the stunt",
+        "options": {
+            "a": "attract the baby",
+            "b": "explain well to the men",
+            "c": "to show baby something in her hands",
+            "d": "playing and enjoying with other boy",
+            "e": "to teach the girl"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "8513603944",
+        "question": "why do the children wear helmets",
+        "options": {
+            "a": "climbing the cliff",
+            "b": "rugby players",
+            "c": "skiing",
+            "d": "perform play work",
+            "e": "ride bicycle"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "3456030972",
+        "question": "why are the other children all looking down at their abacus and worksheets at the background of the video",
+        "options": {
+            "a": "show the spots that she drew",
+            "b": "feed the girl",
+            "c": "concentrating",
+            "d": "finished playing till that page",
+            "e": "to check whats inside"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "5913180144",
+        "question": "why are there so many people standing together",
+        "options": {
+            "a": "look at squirrel",
+            "b": "performing",
+            "c": "gather for phototaking",
+            "d": "exchange contact numbers",
+            "e": "queuing for their turn"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6188449000",
+        "question": "why is the woman holding the ukulele",
+        "options": {
+            "a": "acting to play it",
+            "b": "to hold the ball",
+            "c": "wipe tears",
+            "d": "help to flip piano score",
+            "e": "gesturing"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4087654898",
+        "question": "why is there water gushing out of the bucket",
+        "options": {
+            "a": "water from hose was too strong",
+            "b": "showering the dog",
+            "c": "waterfall",
+            "d": "water park",
+            "e": "steer direction of the raft"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4757890069",
+        "question": "why is there a barrier palced in the middle of the opposite road",
+        "options": {
+            "a": "restrict entry",
+            "b": "mark a dead end",
+            "c": "construction in progress",
+            "d": "floor wet",
+            "e": "there was a hole on the roads"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "3131380536",
+        "question": "why does the child put the spoon in his mouth",
+        "options": {
+            "a": "lick yogurt taste",
+            "b": "chew",
+            "c": "to hit the bottle",
+            "d": "clean the spoon",
+            "e": "pushing the food in"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6480018109",
+        "question": "how does the man support himself as he walks",
+        "options": {
+            "a": "hold the walls",
+            "b": "stretch hands out",
+            "c": "use walking handle",
+            "d": "hold the nurse",
+            "e": "hold the table"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4251505427",
+        "question": "how is the baby being held",
+        "options": {
+            "a": "laying in the pram",
+            "b": "safety belt",
+            "c": "strapped into pram",
+            "d": "lady hold baby in standing position",
+            "e": "in babyseat"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "5803861992",
+        "question": "how did the woman beside the baby girl entertain her",
+        "options": {
+            "a": "pull her legs",
+            "b": "crawl",
+            "c": "hit face gently with fan",
+            "d": "kiss the baby on forehead",
+            "e": "tickle her belly"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "8557532213",
+        "question": "why did the boy in yellow look at the boy in blue before the boy in blue kicked the ball",
+        "options": {
+            "a": "to see lady",
+            "b": "bring ball with him",
+            "c": "check on him",
+            "d": "waiting to catch ball",
+            "e": "wave to him"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4671452046",
+        "question": "why did the baby bend over to side",
+        "options": {
+            "a": "to stir in cup",
+            "b": "want the soft toy",
+            "c": "want more biscuit",
+            "d": "to grab cloth",
+            "e": "want to ride"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6188449000",
+        "question": "why did the boy walk away from the woman",
+        "options": {
+            "a": "to take a paper",
+            "b": "exploring the christmas stuffs",
+            "c": "to take picture",
+            "d": "following boy",
+            "e": "observe boy"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "10127533784",
+        "question": "why does the man standing in the background raise his hand at the end",
+        "options": {
+            "a": "he is happy",
+            "b": "lure the dog to jump",
+            "c": "need to play the drum",
+            "d": "direct attention",
+            "e": "cut hair"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "7492398760",
+        "question": "why did the man swing the baby girl around",
+        "options": {
+            "a": "playing with microphone",
+            "b": "playing with baby",
+            "c": "playing with dog",
+            "d": "instructed by elderly",
+            "e": "push the baby"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "5833145209",
+        "question": "how did the black bird move away from the pot towards the end of video",
+        "options": {
+            "a": "fly",
+            "b": "walks away",
+            "c": "runs away",
+            "d": "someone carried the bird",
+            "e": "jump down"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4626085492",
+        "question": "why did the black dog on the sofa jumped down at the end of the video",
+        "options": {
+            "a": "laughing",
+            "b": "to play with the toy",
+            "c": "fell down",
+            "d": "get away from dog",
+            "e": "wants to play with toy dropped"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "3763643225",
+        "question": "why does the boy run towards the steps",
+        "options": {
+            "a": "to get the door",
+            "b": "follow the ball",
+            "c": "to get the kite controller from man",
+            "d": "place the giraffe on top",
+            "e": "trying to get up"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "5406108447",
+        "question": "why did the girl bend forward a few times in the video",
+        "options": {
+            "a": "drag the red box",
+            "b": "to carry baby",
+            "c": "to swing the hammock",
+            "d": "to push her",
+            "e": "pick up towel"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4010069381",
+        "question": "why is there a speaker over the pole where the lady is standing",
+        "options": {
+            "a": "watch deers",
+            "b": "speaking to audience",
+            "c": "talking to girl",
+            "d": "play the music",
+            "e": "to get the baby s attention"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4542882771",
+        "question": "why does the baby chew on his spoon near the end",
+        "options": {
+            "a": "feel type of food it is",
+            "b": "dropped the spoon",
+            "c": "to make it less messy",
+            "d": "no spoon",
+            "e": "eating the food"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "5840177726",
+        "question": "why were the men turning down to their left",
+        "options": {
+            "a": "look at the ground",
+            "b": "adjust something",
+            "c": "turn on the path",
+            "d": "stuck in snow",
+            "e": "wave pushed him"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4272084125",
+        "question": "how did the lady hold the bottle up to the camera",
+        "options": {
+            "a": "hold the opener",
+            "b": "both hands",
+            "c": "points toward it",
+            "d": "put on table",
+            "e": "with her left hand"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "2940373590",
+        "question": "why is the lady and man in close proximity",
+        "options": {
+            "a": "moving the dog",
+            "b": "talking to each other",
+            "c": "it s sunny",
+            "d": "dancing together",
+            "e": "attending taekwondo class"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "10779838974",
+        "question": "how do the two girls plough a field",
+        "options": {
+            "a": "holding the dog s collar",
+            "b": "holding and pulling it",
+            "c": "push the rake",
+            "d": "ride a horse",
+            "e": "hit face gently with fan"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "7571121368",
+        "question": "why does the girl in red look down while walking",
+        "options": {
+            "a": "service staff",
+            "b": "look at dog",
+            "c": "look for the obstacles",
+            "d": "to teach child to walk",
+            "e": "wanted to help stop ball"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6163877860",
+        "question": "how did the baby move around the sofa",
+        "options": {
+            "a": "man carried him",
+            "b": "using a baby chair",
+            "c": "bounce up and down",
+            "d": "roll around",
+            "e": "crawl"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "3843551232",
+        "question": "how did the small puppy approach the big dog s tail",
+        "options": {
+            "a": "avoid them",
+            "b": "approach its tail",
+            "c": "put food on sofa",
+            "d": "by the brush",
+            "e": "try to pull out"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "2731071928",
+        "question": "why is the child not playing with the other toy beside her",
+        "options": {
+            "a": "playing",
+            "b": "making himself comfortable",
+            "c": "wants to move",
+            "d": "busy playing guitar",
+            "e": "likes to play with it"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "2705374471",
+        "question": "why did the older kid want to throw the shoe up and down",
+        "options": {
+            "a": "wanted to exit boot",
+            "b": "stabilise himself",
+            "c": "grab the ball",
+            "d": "passionate",
+            "e": "catch baby s attention"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6895608152",
+        "question": "why does the lighting of the stage change when the person in white enters the stage",
+        "options": {
+            "a": "he is playing music",
+            "b": "as a stage effect",
+            "c": "change of mood",
+            "d": "going with the rhythm",
+            "e": "cooling the place"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6272786009",
+        "question": "why do the boats move relatively far away from each other",
+        "options": {
+            "a": "turn around",
+            "b": "ensure safty",
+            "c": "desert",
+            "d": "trying to land",
+            "e": "competition"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "5205081904",
+        "question": "why does the child constantly look down",
+        "options": {
+            "a": "sleepy",
+            "b": "playing with a toy",
+            "c": "playing game",
+            "d": "looking at the tablet",
+            "e": "safety"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "3322503255",
+        "question": "why does the person stop waving his hands towards the end",
+        "options": {
+            "a": "plane has moved forward",
+            "b": "wait for opponent to react",
+            "c": "to prevent baby from hitting face",
+            "d": "get off stage",
+            "e": "lure the dog to jump"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4179163342",
+        "question": "how did the youngest girl show affection to the dog",
+        "options": {
+            "a": "hug dog",
+            "b": "rub the dog",
+            "c": "kiss",
+            "d": "stroke the dog",
+            "e": "lady is carrying the dog"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4896969617",
+        "question": "why did the girl in white bend down before she slide down the slide",
+        "options": {
+            "a": "to slide",
+            "b": "get color",
+            "c": "being dramatic",
+            "d": "hold boy",
+            "e": "provide support"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "11871253306",
+        "question": "why did the boy in green shoot into the goal post after picking up the ball",
+        "options": {
+            "a": "to throw it in",
+            "b": "to not step on it",
+            "c": "disappointed that he missed one pin",
+            "d": "wide hole on the ground",
+            "e": "to move it away"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "5129152550",
+        "question": "why is the man using his hand gestures occasionally",
+        "options": {
+            "a": "talk to each other",
+            "b": "express his views",
+            "c": "direct attention",
+            "d": "cycling",
+            "e": "engage audience"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6011836129",
+        "question": "why do the women raise their heads in the middle of the video",
+        "options": {
+            "a": "change position",
+            "b": "show the things in her hand",
+            "c": "balance",
+            "d": "walk towards dog",
+            "e": "looking at something"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6516459343",
+        "question": "why did the man in green point his hand at the man in white while he is talking",
+        "options": {
+            "a": "seek his help",
+            "b": "express agreement to what was said",
+            "c": "smiling",
+            "d": "showing him the view",
+            "e": "deliver message better"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "2599937944",
+        "question": "why is the guy in black suspending above the rushing waters",
+        "options": {
+            "a": "pose for the camera",
+            "b": "prepare to jump",
+            "c": "water activity",
+            "d": "riding a yacht",
+            "e": "catching fish"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4378803532",
+        "question": "why does the child in stripes run towards the man in red",
+        "options": {
+            "a": "change to bigger sparkler",
+            "b": "does not want to be filmed",
+            "c": "to rise cardboard up",
+            "d": "finding the other children",
+            "e": "move to next base"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "5504913999",
+        "question": "how did the man pushed himself to move",
+        "options": {
+            "a": "use strings",
+            "b": "use poles to push",
+            "c": "asked for help",
+            "d": "cycle up slope",
+            "e": "motivate himself"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6329077812",
+        "question": "why is there a piece of tissue in front of the baby",
+        "options": {
+            "a": "clean the table",
+            "b": "to wipe baby after feeding him",
+            "c": "wipe bottle",
+            "d": "clean the utensils",
+            "e": "clean food spills"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "7442562474",
+        "question": "why was the brown cat grabbing the white cat s head nearing the end",
+        "options": {
+            "a": "clean white cat",
+            "b": "playing with white cat",
+            "c": "to lick its body",
+            "d": "bite white cat",
+            "e": "resting the paw"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "3194558043",
+        "question": "why are there people standing around the dance floor",
+        "options": {
+            "a": "wait for their turn to dance",
+            "b": "performing",
+            "c": "watching performance",
+            "d": "start singing",
+            "e": "watch the girl dancing"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4333544549",
+        "question": "why did the man in blue take out a phone in the middle of the video",
+        "options": {
+            "a": "to take the picture",
+            "b": "to take a high angled video",
+            "c": "to answer call",
+            "d": "looking for directions",
+            "e": "to send message"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "5681946487",
+        "question": "why does the woman cover her knees with a towel while bathing the boy",
+        "options": {
+            "a": "to cover herself",
+            "b": "get baby to open mouth",
+            "c": "newborn",
+            "d": "prevent getting wet",
+            "e": "not toilet trained"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "11966080214",
+        "question": "why did the girl move nearer to the wall at the beginning of the video",
+        "options": {
+            "a": "take a book",
+            "b": "take a flower",
+            "c": "adjust the fan",
+            "d": "more comfortable position",
+            "e": "adjust the shelves"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6233408665",
+        "question": "why are the two girls sitting at the table",
+        "options": {
+            "a": "watching television",
+            "b": "posing for photo",
+            "c": "eating snacks",
+            "d": "watching people perform",
+            "e": "talking to lady in white"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "9408800471",
+        "question": "why does the dog stand still next to the ball until the boy catches up with the dog near the end of the video",
+        "options": {
+            "a": "waiting for him to throw",
+            "b": "for boy to pick up",
+            "c": "bring ball with him",
+            "d": "trying to fly it",
+            "e": "aim wrongly"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "8241491518",
+        "question": "why does the man bend down while cutting",
+        "options": {
+            "a": "dribbling ball",
+            "b": "play with elmo",
+            "c": "chop leaves",
+            "d": "keep the rod fixed at one place",
+            "e": "play game"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6168295272",
+        "question": "why did the girl in blue jump at the end of the video",
+        "options": {
+            "a": "dancing",
+            "b": "to put in her mouth",
+            "c": "jump of the stage",
+            "d": "excited",
+            "e": "engaged in conversation"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "8224504302",
+        "question": "how do the men speak into the microphone on stage",
+        "options": {
+            "a": "show slides",
+            "b": "hold microphone in hands",
+            "c": "microphones on collar",
+            "d": "take turns",
+            "e": "sway his body"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4013751996",
+        "question": "how does the girl stop the toy bicycle",
+        "options": {
+            "a": "put feet on the ground",
+            "b": "arrive at wall",
+            "c": "pedal",
+            "d": "point her boards to make triangle",
+            "e": "baby seat"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "2623954636",
+        "question": "why did the boy raise his hands with the ball in his hand",
+        "options": {
+            "a": "pushed by adult",
+            "b": "being thrown",
+            "c": "bounce higher",
+            "d": "to kick the ball",
+            "e": "give him more balls to throw"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4626535366",
+        "question": "why does the boy with silver shoe bend down at the beginning of the video",
+        "options": {
+            "a": "to adjust shoelaces",
+            "b": "pick up things",
+            "c": "remove shoes",
+            "d": "play with the sand",
+            "e": "remove the ball"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4698622422",
+        "question": "why is the boy running after the ball",
+        "options": {
+            "a": "happy",
+            "b": "pick up and throw it",
+            "c": "play with ball",
+            "d": "pick up ball",
+            "e": "prepare for another hit"
+        },
+        "answer": "c",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "13919236672",
+        "question": "why did the girl continue looking down while holding the blue toy at the end of the video",
+        "options": {
+            "a": "she drops the food",
+            "b": "make face",
+            "c": "carry girl down stairs",
+            "d": "talk to girl",
+            "e": "pick up green object"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "5433090067",
+        "question": "how does the man ensure the safety of the girl",
+        "options": {
+            "a": "hold her body",
+            "b": "stay close to the girl",
+            "c": "wear life vest",
+            "d": "hands ready to catch the girl",
+            "e": "put cushion on the floor"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "3626788516",
+        "question": "why does the woman in brown pass her camera out at the beginning of the video",
+        "options": {
+            "a": "to better plant the sapling",
+            "b": "finish playing",
+            "c": "to read the cards",
+            "d": "to hold the animal",
+            "e": "she asked for it"
+        },
+        "answer": "d",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "11871253306",
+        "question": "how did the men make the game more challenging for the children",
+        "options": {
+            "a": "cry",
+            "b": "punch air",
+            "c": "hold the boy",
+            "d": "touching the controls",
+            "e": "kicked the ball away"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "3935853204",
+        "question": "how did the lady enlarge the view of the screen after the middle part of the video",
+        "options": {
+            "a": "use another hand to help her zoom",
+            "b": "press the button",
+            "c": "romote controller",
+            "d": "put it on the sofa",
+            "e": "slide over the keys"
+        },
+        "answer": "a",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "5996148663",
+        "question": "why does the lady hold her hands together underneath the rock",
+        "options": {
+            "a": "dancing pose",
+            "b": "collect water",
+            "c": "assist the girl in planting",
+            "d": "pretend to hit the drum",
+            "e": "direct attention"
+        },
+        "answer": "b",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "6713120511",
+        "question": "how did the man in black move down the slope",
+        "options": {
+            "a": "walked up",
+            "b": "jump",
+            "c": "using the sled",
+            "d": "spectacles",
+            "e": "slide down"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4333544549",
+        "question": "why did the man in blue touch his pocket in the middle",
+        "options": {
+            "a": "get tissue",
+            "b": "find wallet",
+            "c": "take out dog food",
+            "d": "find keys",
+            "e": "take out a phone"
+        },
+        "answer": "e",
+        "dimension": "Causal"
+    },
+    {
+        "VideoID": "4217422838",
+        "question": "what did the lady do after she closed the box in front of her at the beginning of the video",
+        "options": {
+            "a": "stand up",
+            "b": "go to the adult",
+            "c": "put the box aside",
+            "d": "point at something",
+            "e": "touch the child s head"
+        },
+        "answer": "c",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4967810888",
+        "question": "what did the lady with blonde hair do after she entered the room",
+        "options": {
+            "a": "stand up",
+            "b": "leave the room",
+            "c": "turn back to window",
+            "d": "run towards the camera",
+            "e": "sat down"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3524939594",
+        "question": "how do the men on the cart react when the man pulling it swaying the cart from side to side",
+        "options": {
+            "a": "riding on the snow",
+            "b": "sway head too",
+            "c": "stand up",
+            "d": "hold the bottom",
+            "e": "tilts bottle to pour liquid in"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "11566980553",
+        "question": "how does the woman respond after the boy gives her the present",
+        "options": {
+            "a": "smile",
+            "b": "puts present aside and ignore him",
+            "c": "write something down",
+            "d": "cry",
+            "e": "walk back to the man"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "6159637889",
+        "question": "what does the person do after the baby waves its hand in the middle of the video",
+        "options": {
+            "a": "squeezing tube",
+            "b": "toy falls",
+            "c": "teething",
+            "d": "hold the baby up",
+            "e": "swing the cradle higher"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "6772999108",
+        "question": "what did the boy do when the girl started clapping",
+        "options": {
+            "a": "cry",
+            "b": "throw toy at her",
+            "c": "push her",
+            "d": "look at her",
+            "e": "run away"
+        },
+        "answer": "d",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "5875535585",
+        "question": "what does the man in checked shirt do as the man in black sings",
+        "options": {
+            "a": "play the guitar",
+            "b": "take microphone back",
+            "c": "playing the keyboard",
+            "d": "put down the glass",
+            "e": "play the drums"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "10001787725",
+        "question": "what does the baby do as it tries to move forwards",
+        "options": {
+            "a": "waddles up and down",
+            "b": "reach for the bottle",
+            "c": "reach for the flower",
+            "d": "close his eyes",
+            "e": "crawling on the ground"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "6895608152",
+        "question": "how do the people in red react when the person in white enters on stage",
+        "options": {
+            "a": "stand in a line",
+            "b": "move to stage edge",
+            "c": "confident",
+            "d": "continue talking",
+            "e": "performing"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "2796821016",
+        "question": "what does the boy in striped do after getting his leg off the other boy",
+        "options": {
+            "a": "bend his body",
+            "b": "talk to camera",
+            "c": "roll opposite direction",
+            "d": "moving ti around",
+            "e": "walk away"
+        },
+        "answer": "c",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3198533789",
+        "question": "what roles does the man in orange play in the activity",
+        "options": {
+            "a": "director",
+            "b": "inspector",
+            "c": "model",
+            "d": "office worker",
+            "e": "slave"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4983922034",
+        "question": "what does the black dog do after watching the two dogs jumping",
+        "options": {
+            "a": "dig snow",
+            "b": "jump again",
+            "c": "sits down",
+            "d": "look at them",
+            "e": "ignored white dog"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "5328616848",
+        "question": "what was the man doing while the woman prepared the ingredients",
+        "options": {
+            "a": "putting something in the oven",
+            "b": "follow behind her",
+            "c": "adjusting cakes",
+            "d": "carve pumpkin",
+            "e": "adjust shoes"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "6201488511",
+        "question": "what is the lady holding while she stood on the grass",
+        "options": {
+            "a": "bin",
+            "b": "hold dog leash",
+            "c": "toy car running",
+            "d": "bottle",
+            "e": "looking at the dogs"
+        },
+        "answer": "d",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "8171216955",
+        "question": "what did the girl do after hitting the toy everytime",
+        "options": {
+            "a": "pour the sand out",
+            "b": "walks away",
+            "c": "walk to white basket",
+            "d": "moves backward",
+            "e": "happy"
+        },
+        "answer": "d",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4488066715",
+        "question": "how does the adult react when the baby tries to touch the bowl with his other hand",
+        "options": {
+            "a": "shouted for help",
+            "b": "takes a tissue",
+            "c": "pull hand away",
+            "d": "give him a ball",
+            "e": "playing with baby"
+        },
+        "answer": "c",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "5533380417",
+        "question": "what did the baby do after it moved its feet",
+        "options": {
+            "a": "tried to touch camera",
+            "b": "move the body",
+            "c": "relaxing",
+            "d": "touches his face",
+            "e": "turns it more"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3066064005",
+        "question": "what do the women do after reaching their correctly assigned seats",
+        "options": {
+            "a": "stand around and talk",
+            "b": "sit on grass",
+            "c": "smiling",
+            "d": "singing",
+            "e": "put up her finger"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "8253302563",
+        "question": "what does the boy do after opening the door of the toy car at the start",
+        "options": {
+            "a": "happy",
+            "b": "look around and raise hands",
+            "c": "moves the toy",
+            "d": "tried to climb",
+            "e": "enters the toy car"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3508459605",
+        "question": "what does the baby do after the man starts swinging his body",
+        "options": {
+            "a": "push boy",
+            "b": "shake his head",
+            "c": "move his body",
+            "d": "lean forward",
+            "e": "swings with the man"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "2793260225",
+        "question": "what was the man without a cap try to do while on the shoulders",
+        "options": {
+            "a": "lean back and play with water",
+            "b": "touched his blue beanie",
+            "c": "moves the car backward",
+            "d": "play rugby",
+            "e": "to climb up on shoulders"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "6713120511",
+        "question": "what does the first person do with her hands as she slid down",
+        "options": {
+            "a": "playing with sticks",
+            "b": "drinking soup",
+            "c": "pick up shoe",
+            "d": "stretched out",
+            "e": "jumps up"
+        },
+        "answer": "d",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "10127533784",
+        "question": "what do the two men in white hold in their hands while stepping towards each other",
+        "options": {
+            "a": "towel",
+            "b": "microphone",
+            "c": "glass",
+            "d": "wine cup",
+            "e": "sword"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "8531675050",
+        "question": "what does the man do after the woman walks away from him",
+        "options": {
+            "a": "pick up something from ground",
+            "b": "eat and speak",
+            "c": "shake her hand",
+            "d": "speak",
+            "e": "stopped the bicycle"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4419096437",
+        "question": "what is the cameraman doing",
+        "options": {
+            "a": "putting cat to sleep",
+            "b": "feeding cat",
+            "c": "washing cat",
+            "d": "caress baby",
+            "e": "cooking"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "8080432373",
+        "question": "what did the girl do when the television screen turned on",
+        "options": {
+            "a": "jump",
+            "b": "start gesturing and speaking",
+            "c": "wave to camera",
+            "d": "turn to look",
+            "e": "talks and smiles"
+        },
+        "answer": "d",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4838113006",
+        "question": "what does the lady do after reaching table b from table a",
+        "options": {
+            "a": "walk forward",
+            "b": "smiles",
+            "c": "hands over the remote",
+            "d": "looks forward",
+            "e": "squat down"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3427674558",
+        "question": "what activity is being carried out",
+        "options": {
+            "a": "a talk",
+            "b": "dance",
+            "c": "egg hunter",
+            "d": "playing",
+            "e": "horse riding"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3562017845",
+        "question": "what did the bird at the back do after it started to walk",
+        "options": {
+            "a": "sit down",
+            "b": "pat the dog",
+            "c": "kicks the other bird out",
+            "d": "change direction of walker for baby",
+            "e": "stretch its body"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4612723694",
+        "question": "what did the man do with the white bag after letting the snake out",
+        "options": {
+            "a": "throw it aside",
+            "b": "drinks it",
+            "c": "tocuh his nose",
+            "d": "pass the ribbon to the lady",
+            "e": "continue playing instrument"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "10607095936",
+        "question": "what does the man in red vest do after the man in red cape raise his hand at the end",
+        "options": {
+            "a": "grab his shoulders",
+            "b": "hi-five him",
+            "c": "count down",
+            "d": "turns and looks at him",
+            "e": "take his phone out"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3105728894",
+        "question": "what does the man in blue clothing do after picking up the neon rings",
+        "options": {
+            "a": "pick up disk and read",
+            "b": "point camera with sunglasses",
+            "c": "spin the rings",
+            "d": "try to catch the fishes",
+            "e": "eat"
+        },
+        "answer": "c",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "8464056582",
+        "question": "what does the baby do after sitting for a while in the middle",
+        "options": {
+            "a": "turn around",
+            "b": "crawl",
+            "c": "touch the cloth",
+            "d": "create waves",
+            "e": "withdrew toy"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "2793806282",
+        "question": "what did the lady in blue do when she reached the stairs",
+        "options": {
+            "a": "put head on table",
+            "b": "sit on stairs",
+            "c": "goes to get food",
+            "d": "move hands around",
+            "e": "jump down stairs"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3218498932",
+        "question": "what does the boy in red do after playing with his phone for a while in the middle",
+        "options": {
+            "a": "put at the side",
+            "b": "clap",
+            "c": "look backwards at them",
+            "d": "look at tv",
+            "e": "play with her"
+        },
+        "answer": "d",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "9217939684",
+        "question": "what does the baby do after crawling for a short while",
+        "options": {
+            "a": "stand up",
+            "b": "pick up something",
+            "c": "fall down",
+            "d": "rise right arm",
+            "e": "lies on his side"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3359075894",
+        "question": "what does the man in grey do after the man in black throws the ball at him",
+        "options": {
+            "a": "position at the corner",
+            "b": "pass on the arrows",
+            "c": "smiles with excitement",
+            "d": "smell the toy",
+            "e": "hit the ball with the bat"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4006608424",
+        "question": "what does the man do after getting off the swing near the middle",
+        "options": {
+            "a": "kick some more",
+            "b": "dig deeper into box",
+            "c": "throw the bucket",
+            "d": "hit with bat",
+            "e": "runs backward"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3804148568",
+        "question": "what is the man in black doing with the two people practising fighting with swords",
+        "options": {
+            "a": "teaching",
+            "b": "filming the scene",
+            "c": "focused",
+            "d": "moves back",
+            "e": "bleed"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4984417707",
+        "question": "what was the man in red next to the brown sign board at the end doing while the elephants were playing with the ball",
+        "options": {
+            "a": "point at the trucks",
+            "b": "throw away the ball",
+            "c": "blows thw whistle",
+            "d": "walk around",
+            "e": "look at the red car"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4199369046",
+        "question": "what do the other people do after the lady finishes drinking at the beginning",
+        "options": {
+            "a": "tap bottle cap",
+            "b": "laughs",
+            "c": "move away",
+            "d": "leave the stage",
+            "e": "put the pot down"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "2821968703",
+        "question": "what happens to the man after he crash into the sea at the end",
+        "options": {
+            "a": "sit down",
+            "b": "get out of boat",
+            "c": "fall down",
+            "d": "walked to the truck",
+            "e": "fall into water"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "5256928210",
+        "question": "what did the man do after scratching the ends of the dog near the start",
+        "options": {
+            "a": "wag tail",
+            "b": "play with toy",
+            "c": "scratch body",
+            "d": "walk away",
+            "e": "look at hand"
+        },
+        "answer": "c",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "5801184682",
+        "question": "what does the human do after carrying up the cat",
+        "options": {
+            "a": "turns over",
+            "b": "move away",
+            "c": "push it",
+            "d": "place cat on carpet",
+            "e": "caress cst"
+        },
+        "answer": "d",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "2599937944",
+        "question": "how did the 3 ladies react when watching the man in black",
+        "options": {
+            "a": "point at him",
+            "b": "smiling",
+            "c": "covered his face in embarrassment",
+            "d": "hold his hand",
+            "e": "hold chopsticks to his tongue"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "9088819598",
+        "question": "what does the baby do after the ball rolls to the crook of his arm",
+        "options": {
+            "a": "swings with the man",
+            "b": "watch the ball",
+            "c": "stretches his arms",
+            "d": "throws it",
+            "e": "move his body"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "8740703217",
+        "question": "what does the baby do after picking up the food",
+        "options": {
+            "a": "nothing",
+            "b": "look behind him",
+            "c": "eat the food",
+            "d": "put on sofa",
+            "e": "smile"
+        },
+        "answer": "c",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4138579400",
+        "question": "what did the boy do after touching his spectacles",
+        "options": {
+            "a": "look into camera",
+            "b": "touch the cat",
+            "c": "touch his hair",
+            "d": "starts running with the trolley",
+            "e": "play with toy"
+        },
+        "answer": "c",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "9873067604",
+        "question": "what did the boy with collar shirt do after he looked at the camera at first",
+        "options": {
+            "a": "stop crying",
+            "b": "hold s the rod",
+            "c": "look away",
+            "d": "talk",
+            "e": "stick his tongue out"
+        },
+        "answer": "d",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "5913180144",
+        "question": "what does the man in blue socks do when he approach the man in pink at the end",
+        "options": {
+            "a": "sitting",
+            "b": "run back to position",
+            "c": "look up",
+            "d": "hold the man s hand",
+            "e": "put his arms around the shoulder"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3063380173",
+        "question": "how did the kitten inside the container react when the kitten outside was moving its paws at the start of the video",
+        "options": {
+            "a": "table",
+            "b": "tap the cushion it was on",
+            "c": "back away",
+            "d": "try to touch paws",
+            "e": "smile"
+        },
+        "answer": "d",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "7059877301",
+        "question": "what did the light brown dog do after it finished drinking water",
+        "options": {
+            "a": "came out of bucket",
+            "b": "crawled to the toy",
+            "c": "run",
+            "d": "jump out",
+            "e": "pour on kid"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4896969617",
+        "question": "what did the girl in white do after she was at the top of the slide",
+        "options": {
+            "a": "switch on it",
+            "b": "prepares to slide",
+            "c": "push boy on swing",
+            "d": "jump off seat and spread arms",
+            "e": "happy"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "2957808913",
+        "question": "what do the men on stage do when the man in black jacket is dancing the street",
+        "options": {
+            "a": "play musical instrument",
+            "b": "singing",
+            "c": "watch the man dancing",
+            "d": "drink",
+            "e": "smiling and laughing"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "6018514357",
+        "question": "what was the man doing as the baby was on the slide",
+        "options": {
+            "a": "watching the baby",
+            "b": "using phone",
+            "c": "dancing",
+            "d": "taking photo of baby",
+            "e": "exercising"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "5945172741",
+        "question": "what does the lady in red do as the man is playing with the girl",
+        "options": {
+            "a": "moves her head",
+            "b": "watch them",
+            "c": "sing",
+            "d": "use her phone",
+            "e": "adjust her clothes"
+        },
+        "answer": "d",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "7416295940",
+        "question": "what does the baby do when the dog approaches him",
+        "options": {
+            "a": "push dog away",
+            "b": "make funny faces",
+            "c": "stand up",
+            "d": "talk to the lady",
+            "e": "touch dog"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3489439407",
+        "question": "what does the lady in blue hold in her hand",
+        "options": {
+            "a": "pen",
+            "b": "pencils",
+            "c": "basketball",
+            "d": "flowers",
+            "e": "ribbons"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3340340268",
+        "question": "what does the girl in green do after lifting the yellow bucket up briefly near the start",
+        "options": {
+            "a": "look around",
+            "b": "run to the back",
+            "c": "paddle",
+            "d": "kick ball back",
+            "e": "put inbox"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4483447009",
+        "question": "what does the duck do after approaching the fence in the middle",
+        "options": {
+            "a": "communicate with other duck",
+            "b": "land on the grass",
+            "c": "sleeping",
+            "d": "moved away",
+            "e": "look at ground"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "5349766264",
+        "question": "what is the man in green playing beside the piano",
+        "options": {
+            "a": "his cup",
+            "b": "guitar",
+            "c": "piano",
+            "d": "drum",
+            "e": "violin"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "5205081904",
+        "question": "what did the boy do after squatting down for a while",
+        "options": {
+            "a": "walk forward",
+            "b": "pick up grass",
+            "c": "bend down and touch the woman s back",
+            "d": "lie backwards",
+            "e": "continue cycling"
+        },
+        "answer": "d",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4199369046",
+        "question": "how do other people react after the lady drinks from the cup",
+        "options": {
+            "a": "walks to the boy",
+            "b": "smile",
+            "c": "clap their hands",
+            "d": "laughs",
+            "e": "sway her body"
+        },
+        "answer": "c",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4770216656",
+        "question": "what does the boy do as the man stood at the side",
+        "options": {
+            "a": "walks forward",
+            "b": "performing",
+            "c": "play swing",
+            "d": "hand over the carrot",
+            "e": "hold water bottle"
+        },
+        "answer": "c",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "7988210561",
+        "question": "how is the baby positioned in the video",
+        "options": {
+            "a": "sleeping",
+            "b": "standing",
+            "c": "rolling around",
+            "d": "lying on mat",
+            "e": "sitting"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "2793806282",
+        "question": "what is the dog doing",
+        "options": {
+            "a": "on the right",
+            "b": "swimming",
+            "c": "lick baby s hand",
+            "d": "playing with sticks",
+            "e": "play with ball"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "6617533993",
+        "question": "how does the boy feel while playing",
+        "options": {
+            "a": "sad",
+            "b": "scared",
+            "c": "annoyed",
+            "d": "confused",
+            "e": "happy"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "2697214342",
+        "question": "what are the guys doing in the video",
+        "options": {
+            "a": "riding horse",
+            "b": "drinking",
+            "c": "working",
+            "d": "playing guitars",
+            "e": "trekking"
+        },
+        "answer": "c",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "6762389913",
+        "question": "what does the person do as the black dog is licking the brown dog at the end",
+        "options": {
+            "a": "lick the other dog",
+            "b": "touch dog s nose",
+            "c": "strokes it",
+            "d": "shocked",
+            "e": "step out of container"
+        },
+        "answer": "c",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4273039295",
+        "question": "what does the child do after stopping at a tree",
+        "options": {
+            "a": "play guitar and sing",
+            "b": "crawl to adult",
+            "c": "try to scoop snow out",
+            "d": "lick them",
+            "e": "pat the chair"
+        },
+        "answer": "c",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4083875373",
+        "question": "what does the girl do after standing up at the end",
+        "options": {
+            "a": "wave and dance",
+            "b": "fall backwards",
+            "c": "stop and point",
+            "d": "walk around it",
+            "e": "walks to the television"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "6244675392",
+        "question": "how does the baby react after the cat jumps off the man s lap",
+        "options": {
+            "a": "look towards the camera",
+            "b": "looked at the wall",
+            "c": "fidget",
+            "d": "resting",
+            "e": "looks for the cat"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4419096437",
+        "question": "how does the cat react after being carressed by the person",
+        "options": {
+            "a": "eat",
+            "b": "scratch it",
+            "c": "rubs against him",
+            "d": "stretch out and hit with paw",
+            "e": "open its eyes"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "9473479950",
+        "question": "how is the baby positioned",
+        "options": {
+            "a": "move around",
+            "b": "on his back",
+            "c": "uncomfortable",
+            "d": "sitting in lady s arms",
+            "e": "laughing"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "2920952624",
+        "question": "what does the shorter woman do after putting her left hand into a bag",
+        "options": {
+            "a": "pick up bag",
+            "b": "throw ingredients into pot",
+            "c": "happy",
+            "d": "look around",
+            "e": "talk to the girl"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3427674558",
+        "question": "what do the people do with their hands while turning around",
+        "options": {
+            "a": "touch the screen of phone",
+            "b": "drawing",
+            "c": "standing",
+            "d": "move them slowly",
+            "e": "watching video on tablet"
+        },
+        "answer": "d",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "7572859950",
+        "question": "what does the lady do after stretching the shirt of the baby in the middle",
+        "options": {
+            "a": "kiss baby",
+            "b": "touch the baby s stomach",
+            "c": "smile",
+            "d": "flip her to the side",
+            "e": "falls back down"
+        },
+        "answer": "d",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4485498145",
+        "question": "what activity is happening",
+        "options": {
+            "a": "learn dancing",
+            "b": "gathering",
+            "c": "focus group discussion",
+            "d": "playing instruments",
+            "e": "fire performance"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4984417707",
+        "question": "what does the man in blue do before the elephant kicked the ball",
+        "options": {
+            "a": "blows thw whistle",
+            "b": "get up",
+            "c": "runs to the baby",
+            "d": "play with pipe",
+            "e": "lean against pole"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4336654741",
+        "question": "how is the lady feeling at the end",
+        "options": {
+            "a": "shocked",
+            "b": "curious",
+            "c": "happy",
+            "d": "calmer and happier",
+            "e": "confused but calm"
+        },
+        "answer": "c",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4190655097",
+        "question": "how did the cat feel when it bite the person and tried to scratch him",
+        "options": {
+            "a": "irritated",
+            "b": "happy",
+            "c": "excited",
+            "d": "sad",
+            "e": "disappointed"
+        },
+        "answer": "a",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4983922034",
+        "question": "what is the black dog doing when the man kicks the snow",
+        "options": {
+            "a": "playing with them",
+            "b": "watch and then dig snow",
+            "c": "yes",
+            "d": "runs around",
+            "e": "looks at the hole"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3471421544",
+        "question": "what does the baby do after he lights up the toy",
+        "options": {
+            "a": "frown",
+            "b": "curious",
+            "c": "look at lights",
+            "d": "dances",
+            "e": "try to turn around"
+        },
+        "answer": "c",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "2821968703",
+        "question": "what does the man do after riding normally for a while at the end",
+        "options": {
+            "a": "adjust the white woman getting dressed",
+            "b": "snip of some hair",
+            "c": "moves hands",
+            "d": "stop hitting",
+            "e": "lost balance"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "7492398760",
+        "question": "what does the boy do after the lady starts running at the end",
+        "options": {
+            "a": "hold someone s legs",
+            "b": "start running too",
+            "c": "take off baby clothes",
+            "d": "shift her feet",
+            "e": "sit on the tricycle"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "5885887012",
+        "question": "what does the baby do after stopping briefly at the start",
+        "options": {
+            "a": "play with bottle",
+            "b": "starts to push again",
+            "c": "touch the cloth",
+            "d": "crawling on the ground",
+            "e": "reading book"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4774302357",
+        "question": "what is the man in grey in front of the computer doing when the other two are playing the guitar",
+        "options": {
+            "a": "watch them playing",
+            "b": "enjoy the music",
+            "c": "hit the drum",
+            "d": "have dinner",
+            "e": "operating the computer"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "6160414832",
+        "question": "what is the shirtless boy doing in front of the camera near the end of the video",
+        "options": {
+            "a": "sleeping",
+            "b": "playing with dog",
+            "c": "surfing",
+            "d": "touch the camera",
+            "e": "dancing"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4636208292",
+        "question": "what does the man in beard do after putting down the drink bottle in the middle",
+        "options": {
+            "a": "roll over",
+            "b": "pose to catch",
+            "c": "drinks the cup",
+            "d": "start playing the instruments",
+            "e": "picks up the glass of beer"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4103088549",
+        "question": "what are they doing",
+        "options": {
+            "a": "ride motorboat",
+            "b": "play golf",
+            "c": "soccer",
+            "d": "basketball",
+            "e": "surfing"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "8594314852",
+        "question": "what did the lady do after the girl point in front of her near the end",
+        "options": {
+            "a": "hi-five",
+            "b": "repeat the pose",
+            "c": "turn to look",
+            "d": "walk away",
+            "e": "cook"
+        },
+        "answer": "c",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3814690167",
+        "question": "how did the baby react when the lady did not respond to his approaching",
+        "options": {
+            "a": "look at camera",
+            "b": "smiling",
+            "c": "bring book closer to baby",
+            "d": "kept lying on lady arms",
+            "e": "kicking his legs"
+        },
+        "answer": "d",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4443526735",
+        "question": "how was the baby chair positioned at the end",
+        "options": {
+            "a": "move his feet",
+            "b": "baby s back towards the camera",
+            "c": "rise right arm",
+            "d": "sit on toy",
+            "e": "lying down"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "9082180631",
+        "question": "where did the lady in black put her hands while she skate",
+        "options": {
+            "a": "cross in front",
+            "b": "behind her back",
+            "c": "touch her hair",
+            "d": "hold the sledge",
+            "e": "her nose"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3489439407",
+        "question": "what are the two men doing as the lady in blue stands and listen via her headphone",
+        "options": {
+            "a": "turns around",
+            "b": "working on the radio",
+            "c": "moving the papers",
+            "d": "walk forward",
+            "e": "choosing a flower"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "6806999702",
+        "question": "what did the girl do after the dog took the ball away",
+        "options": {
+            "a": "pick up the ball",
+            "b": "chase after dog",
+            "c": "shift her feet",
+            "d": "dress the puppy",
+            "e": "dip it in pool"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "2435633172",
+        "question": "what does the pig do after digging the ground at the start",
+        "options": {
+            "a": "continue rubbing dog s head",
+            "b": "run away",
+            "c": "jump",
+            "d": "wakes up and lean forward",
+            "e": "lie in puddle"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4123211145",
+        "question": "what did the girl in orange do after she took the towel from the girl in yellow",
+        "options": {
+            "a": "hold a cross sign",
+            "b": "spin again",
+            "c": "touch the baby s arm",
+            "d": "stand on the plank",
+            "e": "throw it"
+        },
+        "answer": "e",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "4626535366",
+        "question": "what did the boy next to the boy with spectacle do after they bowed",
+        "options": {
+            "a": "sit down",
+            "b": "point to bucket",
+            "c": "wave",
+            "d": "hold the man s hand",
+            "e": "gesture his hands upwards"
+        },
+        "answer": "b",
+        "dimension": "Temporal"
+    },
+    {
+        "VideoID": "3261079025",
+        "question": "what did the man in grey do before the plane took off",
+        "options": {
+            "a": "spinning",
+            "b": "take picture of the wall",
+            "c": "touch the earphones",
+            "d": "hold the plane",
+            "e": "climed on the trunk"
+        },
+        "answer": "d",
+        "dimension": "Temporal"
+    }
+]

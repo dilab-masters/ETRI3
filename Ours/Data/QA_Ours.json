@@ -1,0 +1,2510 @@
+[
+  {
+    "VideoID": "v_4Lu8ECLHvK4",
+    "question": "What is the man wearing as he approaches the boy?",
+    "options": {
+      "a": "The man is carrying a yellow bag.",
+      "b": "The man is wearing a red hat.",
+      "c": "The man is holding a green ball.",
+      "d": "The man is wearing a blue shirt."
+    },
+    "answer": "d",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_4Lu8ECLHvK4",
+    "question": "What action does the boy take after a man in a blue shirt points him to go somewhere?",
+    "options": {
+      "a": "The boy sits down on the same tile and watches others play.",
+      "b": "The boy runs to his father who is standing on the lawn.",
+      "c": "The boy starts playing with a group of children nearby.",
+      "d": "The boy gets off the tile and walks to another tile."
+    },
+    "answer": "d",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_4Lu8ECLHvK4",
+    "question": "What happens after the boy gets off the tile?",
+    "options": {
+      "a": "The boy decides to go home and leaves the park with his father.",
+      "b": "The boy stands still and watches the others play from a distance.",
+      "c": "The boy sits down on the grass and starts playing with toys.",
+      "d": "The little boy comes running towards some children."
+    },
+    "answer": "d",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_4Lu8ECLHvK4",
+    "question": "Why did the man in the blue shirt point out his finger to the boy?",
+    "options": {
+      "a": "The boy needed guidance on where to stand because it was part of a larger game that required following specific movements, and the man was ensuring that each child was in the right place to avoid any confusion or disruption during the game.",
+      "b": "The man in the blue shirt indicates to the boy to go to another tile.",
+      "c": "The man wanted to ensure the boy was standing on the right tile, which was part of a planned game that involved moving between different tiles for each participant, and it was crucial for each child to follow the instructions precisely to ensure the smooth running of the activity.",
+      "d": "The man was trying to organize the children for a group activity, and by pointing, he was not only directing the boy but also subtly instructing other children to prepare, which was essential for maintaining order during the play session."
+    },
+    "answer": "b",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_4Lu8ECLHvK4",
+    "question": "What might have happened if the boy had not been directed by the man in the blue shirt?",
+    "options": {
+      "a": "The boy might have decided to sit down and rest, watching others play while contemplating whether to join them or not.",
+      "b": "He could have wandered off to explore the entire area, possibly interacting with other children or adults.",
+      "c": "He could have become distracted by other activities, like watching the men play with the small children, thereby losing interest in playing on the tiles.",
+      "d": "The boy might have continued playing on the same tile."
+    },
+    "answer": "d",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_4Lu8ECLHvK4",
+    "question": "What might happen when the little boy and his father approach the group of children?",
+    "options": {
+      "a": "They might observe the children playing and decide to sit on the sidelines and watch for a while.",
+      "b": "They might join the group of children and play together.",
+      "c": "They might bring out snacks and drinks for everyone, suggesting a spontaneous mini-picnic, and engage in lengthy discussions about community gatherings.",
+      "d": "They might initiate a conversation with the other parents and discuss the benefits of outdoor activities for children for an extended period."
+    },
+    "answer": "b",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_frePM0YGtQE",
+    "question": "What action does the guy perform with the cat in the kitchen?",
+    "options": {
+      "a": "The guy pets the cat and puts the cat on the floor.",
+      "b": "The guy uses a scissor to cut the cat's claws.",
+      "c": "The guy puts the black cat on the kitchen floor.",
+      "d": "The guy gets up and trashes the clippings."
+    },
+    "answer": "b",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_frePM0YGtQE",
+    "question": "What does the guy do immediately after cutting the cat's claws?",
+    "options": {
+      "a": "The guy reaches for a scissor and sits next to the cat after cutting the cat's claws.",
+      "b": "The guy pets the cat and puts the cat on the floor after cutting the cat's claws.",
+      "c": "The guy puts the clippings in his palm after cutting the cat's claws.",
+      "d": "The guy gets up and trashes the clippings after cutting the cat's claws."
+    },
+    "answer": "c",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_frePM0YGtQE",
+    "question": "Why does the guy put the clippings in his palm after cutting the cat's claws?",
+    "options": {
+      "a": "The guy believes that holding the clippings in his palm will help them magically disappear without needing to be thrown away, as he has heard this from an old folklore that claims the clippings will turn into gold.",
+      "b": "The guy puts the clippings in his palm to collect them after cutting the cat's claws.",
+      "c": "The guy thinks that by putting the clippings in his palm, he can analyze them to determine the health of the cat, hoping that the color and texture might reveal hidden insights into the cat's diet and overall wellbeing.",
+      "d": "The guy uses his palm to collect the clippings because he plans to create an artistic display with them later, intending to showcase his unique hobby of making art out of pet grooming remnants and hoping it will become the next big trend in home decor."
+    },
+    "answer": "b",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_frePM0YGtQE",
+    "question": "What might have happened if the guy didn't have a scissor?",
+    "options": {
+      "a": "If the guy didn't have a scissor, he might not have been able to cut the cat's claws.",
+      "b": "In the absence of a scissor, the guy could have had to reschedule the claw cutting, potentially leading to overgrown claws and discomfort for the cat, which might cause behavioral issues.",
+      "c": "Without a scissor, the guy might have had to find an alternative tool, perhaps risking the safety and comfort of the cat, and it could have taken much longer to complete the task.",
+      "d": "A lack of a scissor might have forced the guy to delay the claw trimming, potentially causing the cat to scratch furniture or even people, and leading to frustration and inconvenience."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_frePM0YGtQE",
+    "question": "What is the likely next activity for the owner and the pet after they exit the kitchen?",
+    "options": {
+      "a": "The owner and pet could start a new activity such as playing with toys, which would involve a lot of running around and excitement, providing both exercise and mental stimulation for the pet.",
+      "b": "The owner and pet are likely to prepare for a small photo session, involving setting up a mini studio with lights and props, capturing memorable moments of the day.",
+      "c": "The owner and pet are likely to continue interacting or resting after exiting the kitchen.",
+      "d": "The owner and pet might go for a long walk, exploring different parts of the neighborhood, enjoying the fresh air, and possibly meeting other pet owners along the way."
+    },
+    "answer": "c",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_y9kk0ptXevk",
+    "question": "What does the lady do with the soap and the boots in the video?",
+    "options": {
+      "a": "The lady pours soap in a glass and then drinks it.",
+      "b": "The lady pours water in a glass and then cleans the table with it.",
+      "c": "The lady pours soap in a glass and then wipes the boots with it.",
+      "d": "The lady pours olive oil in a glass and then wipes the boots with it."
+    },
+    "answer": "c",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_y9kk0ptXevk",
+    "question": "In what sequence does the event occur where the lady shows an item?",
+    "options": {
+      "a": "We see the closing title screen.",
+      "b": "The lady talks and shows a bottle of olive oil.",
+      "c": "The lady talks and pours soap in a glass then wipes the boots with the soap.",
+      "d": "We see an opening title screen."
+    },
+    "answer": "b",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_y9kk0ptXevk",
+    "question": "Why does the lady show a bottle of olive oil in the video?",
+    "options": {
+      "a": "The lady shows the olive oil to compare its color with the boots, highlighting the contrast in hues and textures.",
+      "b": "The lady shows the olive oil to discuss its health benefits for skin if applied regularly, which has nothing to do with the boots.",
+      "c": "The lady shows the bottle of olive oil likely to demonstrate or suggest its use in maintaining the boots after cleaning them with soap.",
+      "d": "The lady presents the olive oil to initiate a conversation about its potential in the culinary arts, suggesting a wide range of uses beyond boot care."
+    },
+    "answer": "c",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_y9kk0ptXevk",
+    "question": "What might the lady do next to the boots after showing a bottle of olive oil?",
+    "options": {
+      "a": "The lady might decide to use a different substance altogether, such as a specially formulated boot wax, and engage in a detailed comparison of its properties versus those of olive oil, debating their respective merits and drawbacks in an overly comprehensive manner.",
+      "b": "The lady might put the olive oil back on the shelf without using it, contemplating its potential benefits for future use while considering alternatives for boot care.",
+      "c": "The lady might apply the olive oil to the boots to condition and polish them.",
+      "d": "The lady might start explaining the history of olive oil and its various uses in culinary and non-culinary domains, pondering the evolution of its significance across cultures and its potential symbolic ties to the boots."
+    },
+    "answer": "c",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_tY6UFSLtIoE",
+    "question": "What does the man do before turning to talk to the camera?",
+    "options": {
+      "a": "He stops and spins the lady over and over again.",
+      "b": "He waves at the people dancing with flashing lights in the club.",
+      "c": "He shows the back of his shirt before turning to talk to the camera.",
+      "d": "He adjusts the camera after tilting it on its side."
+    },
+    "answer": "c",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_tY6UFSLtIoE",
+    "question": "What action does the man perform in front of the camera during the event?",
+    "options": {
+      "a": "People are seen dancing with flashing lights.",
+      "b": "The camera tilts sideways.",
+      "c": "A lady spins around in a circle.",
+      "d": "The man stops in front of the camera and shows the back of his shirt."
+    },
+    "answer": "d",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_tY6UFSLtIoE",
+    "question": "Why does the man stop to show the back of his shirt and then talk to the camera?",
+    "options": {
+      "a": "The man is part of a promotional campaign for a new clothing line, and he is instructed to showcase the shirt's unique features while providing commentary to engage the viewers.",
+      "b": "The man stops to show the back of his shirt and then talks to the camera.",
+      "c": "The man is interrupted by a sudden announcement in the club, prompting him to pause his dance and turn to address the camera with an important message about the event.",
+      "d": "The man wants to demonstrate the intricate design of his shirt, which has a special significance to the club's theme, and he believes the audience would appreciate an explanation."
+    },
+    "answer": "b",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_tY6UFSLtIoE",
+    "question": "What is the most likely action the man might take next in the club scene?",
+    "options": {
+      "a": "The man might continue dancing or perform another dance move.",
+      "b": "The man might decide to pause and take a break, possibly heading to the bar for a refreshment while contemplating the next song and how he will dance to it.",
+      "c": "The man could start a conversation with someone nearby about the music, expressing his enthusiasm for the DJ's set and discussing the best dance moves they could try.",
+      "d": "The man might choose to leave the dance floor momentarily, perhaps to adjust the lighting or sound, and engage in a brief discussion with the DJ about enhancing the party atmosphere."
+    },
+    "answer": "a",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_EwjDShmfFHM",
+    "question": "What does the person do after turning on the faucet?",
+    "options": {
+      "a": "They grab a towel.",
+      "b": "They dry their hands.",
+      "c": "They close the faucet.",
+      "d": "They wet their hands."
+    },
+    "answer": "d",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_EwjDShmfFHM",
+    "question": "What action does the person perform after they pump soap into their hands?",
+    "options": {
+      "a": "The person dries their hands with a towel after rinsing them.",
+      "b": "The person scrubs their hands thoroughly with the soap.",
+      "c": "The person carefully examines their hands for any remaining dirt.",
+      "d": "The person extends their hands towards the faucet to turn it off."
+    },
+    "answer": "b",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_EwjDShmfFHM",
+    "question": "Why does the person extend the hand washing to their wrists?",
+    "options": {
+      "a": "To ensure that their wrists are also cleaned along with their hands.",
+      "b": "To prevent the spread of germs further down their arms, which is crucial especially in health-related scenarios where maintaining high hygiene standards is essential.",
+      "c": "To adhere to comprehensive hand hygiene practices that recommend washing beyond the hands to include the wrists, thereby minimizing any possible health risks associated with incomplete washing.",
+      "d": "To make sure that every part of their arm that might have come into contact with contaminants is thoroughly cleaned, thus avoiding any potential risk of infection or transfer of bacteria."
+    },
+    "answer": "a",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_EwjDShmfFHM",
+    "question": "What would happen if the person did not turn on the faucet to rinse their hands and wrists?",
+    "options": {
+      "a": "Their hands and wrists would remain soapy and not fully clean.",
+      "b": "Their hands would dry quickly without any soap.",
+      "c": "The soap would magically disappear, leaving their hands clean.",
+      "d": "They would instantly find a towel to wipe the soap off."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_EwjDShmfFHM",
+    "question": "What is likely to happen next in the sequence of events shown in the video?",
+    "options": {
+      "a": "They will probably dry their hands.",
+      "b": "They may choose to examine the faucet closely to understand its mechanism, wondering about the engineering behind its design and how it regulates water flow efficiently to conserve resources.",
+      "c": "They could suddenly stop and inspect their hands for any remaining soap residue, contemplating the effectiveness of different handwashing techniques and the importance of hygiene in preventing illness.",
+      "d": "They might decide to leave the faucet running and walk away, pondering about the water cycle and its impact on the environment, considering whether the soap used is biodegradable and the potential long-term effects on aquatic life."
+    },
+    "answer": "a",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_vGcH8N8sJlM",
+    "question": "What happens to most of the balls during the boys' croquet game?",
+    "options": {
+      "a": "All the balls successfully go through the arch into the next area.",
+      "b": "Most of the balls go in the grass and over the trees.",
+      "c": "The balls are expertly aimed and each one hits the pegged target.",
+      "d": "Every ball is retrieved immediately and placed perfectly in line."
+    },
+    "answer": "b",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_vGcH8N8sJlM",
+    "question": "What happens after the croquet game begins in the backyard?",
+    "options": {
+      "a": "The boys decide to take a break and have a snack.",
+      "b": "Two of the boys begin to play fight with their croquet.",
+      "c": "The game is interrupted by a sudden rainstorm.",
+      "d": "A dog runs onto the field and steals the ball."
+    },
+    "answer": "b",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_vGcH8N8sJlM",
+    "question": "What unexpected event occurs during the boys' croquet game in the backyard?",
+    "options": {
+      "a": "As the boys are playing, a sudden rainstorm causes them to switch from croquet to playing in the puddles, altering the day's activities.",
+      "b": "One of the teenagers decides to use a soccer ball to play croquet, which unexpectedly changes the game entirely.",
+      "c": "A neighbor's dog runs into the yard and takes the croquet ball, leading the boys to chase after it, thus changing the course of their game.",
+      "d": "The boy hits the large dodge ball-like item, and it turns out to be the actual ball."
+    },
+    "answer": "d",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_vGcH8N8sJlM",
+    "question": "What could have happened if the boys had realized they were playing with the wrong ball earlier?",
+    "options": {
+      "a": "They might have laughed about the mix-up and then decided to create a new game altogether, incorporating the dodge ball and the croquet equipment in a fun and imaginative way.",
+      "b": "The game could have become more competitive as they started using the right equipment, leading to a more engaging and strategic match.",
+      "c": "They might have switched back to the correct croquet ball immediately.",
+      "d": "The boys might have continued playing with the wrong ball."
+    },
+    "answer": "d",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_vGcH8N8sJlM",
+    "question": "What might the boys do after playing croquet in the backyard?",
+    "options": {
+      "a": "The boys might decide to continue their play by engaging in another round of croquet, but only after ensuring all the equipment is in perfect condition, discussing strategies to improve their game, and possibly inviting more friends to join them for the next session.",
+      "b": "The boys might consider organizing the backyard to keep it tidy, ensuring all the balls are accounted for, and then possibly discussing what game to play next while also contemplating how the weather might affect their future outdoor plans.",
+      "c": "The boys might pack up their game and head back inside.",
+      "d": "The boys might choose to take a break and reflect on their croquet skills, analyzing each other's techniques in detail and planning how to incorporate these insights into a more competitive setting in the future."
+    },
+    "answer": "c",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_D5jLypnn6Ps",
+    "question": "What are the girls using to hit the ball in the stadium?",
+    "options": {
+      "a": "A bat.",
+      "b": "A racket.",
+      "c": "A stick.",
+      "d": "A club."
+    },
+    "answer": "c",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_D5jLypnn6Ps",
+    "question": "What happens after the second girl misses the ball?",
+    "options": {
+      "a": "She decides to stop playing and sits down on the field.",
+      "b": "She tries again and hits the ball this time.",
+      "c": "She walks away in frustration and leaves the stadium.",
+      "d": "She picks up another stick and tries using it instead."
+    },
+    "answer": "b",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_D5jLypnn6Ps",
+    "question": "Why does the second girl wait for the ball to be thrown back to her?",
+    "options": {
+      "a": "She is trying to decide whether to hit the ball with a stick or kick it with her foot, considering the best strategy.",
+      "b": "She waits for the ball to be thrown back so she can attempt to hit it with the stick again.",
+      "c": "She is observing the trajectory and speed of the ball in order to adjust her stance and timing for the most effective hit, taking into account previous failed attempts.",
+      "d": "She is contemplating the best angle to hit the ball to ensure it lands in a specific area of the field, which requires precise calculations."
+    },
+    "answer": "b",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_D5jLypnn6Ps",
+    "question": "What is likely to happen after the girls continue their practice?",
+    "options": {
+      "a": "They will continue practicing their hitting skills and maintain a rally.",
+      "b": "They will call it a day and plan to return to practice at a later time when they feel more energized and prepared to enhance their coordination and teamwork.",
+      "c": "They will decide to switch to another game and leave the field.",
+      "d": "The girls will take a break and discuss strategies on how to improve their skills."
+    },
+    "answer": "a",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_D5jLypnn6Ps",
+    "question": "What might have happened if the girl did not miss her first attempt to hit the ball back?",
+    "options": {
+      "a": "The dynamics of the game could have shifted, allowing the girls to explore different gameplay strategies, which might have led to a more engaging and challenging session, fostering teamwork and enhancing their overall performance in future games.",
+      "b": "The opposing girl might have had less time to adjust her stance and prepare for the next hit, potentially altering the dynamics of their practice and leading to an entirely different outcome in terms of skill development and team coordination.",
+      "c": "The game could have progressed more smoothly, allowing the girls to maintain a steady rhythm and possibly finish their practice session earlier, which might have given them more time to relax and discuss their strategies for future practice sessions.",
+      "d": "She might have continued hitting the ball back and forth without needing to retry."
+    },
+    "answer": "d",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_z3xkE5Ox-2A",
+    "question": "What is the guy doing after removing the skin off a pumpkin?",
+    "options": {
+      "a": "The guy is sitting and discussing.",
+      "b": "The guy wraps white toilet paper on a pumpkin.",
+      "c": "The guy looks in a mirror and mimics punching.",
+      "d": "A guy takes a picture of his carving."
+    },
+    "answer": "a",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_z3xkE5Ox-2A",
+    "question": "What is the guy doing in the video at the specific moment when he interacts with his reflection?",
+    "options": {
+      "a": "The guy looks in a mirror while he mimics punching himself.",
+      "b": "The guy is removing the skin off a pumpkin.",
+      "c": "The guy wraps white toilet paper on a pumpkin carving.",
+      "d": "The guy is carving unique face on the surface of pumpkins."
+    },
+    "answer": "a",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_z3xkE5Ox-2A",
+    "question": "Why did the guy wrap white toilet paper on the pumpkin carving?",
+    "options": {
+      "a": "The guy wraps toilet paper on the pumpkin carving to make it look like a mummy for a Halloween-themed decoration, adding a spooky element to the overall design that aligns with the festive atmosphere.",
+      "b": "The guy wraps toilet paper on the pumpkin carving to possibly enhance its appearance or add a unique touch.",
+      "c": "The guy wraps toilet paper on the pumpkin carving to protect it from drying out and preserve it for a longer duration, ensuring that the pumpkin remains fresh and visually appealing for several days.",
+      "d": "The guy wraps toilet paper on the pumpkin carving to test how different textures can influence the overall perception and artistic value of the pumpkin, contributing to an experimental art project that explores unconventional materials."
+    },
+    "answer": "b",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_z3xkE5Ox-2A",
+    "question": "What might have been different in the sequence of events if the guy did not mimic punching himself in the mirror?",
+    "options": {
+      "a": "If the guy did not mimic punching himself in the mirror, he might have proceeded directly to wrapping the toilet paper on the pumpkin.",
+      "b": "If the guy avoided his mirror antics, he could have gone straight to discussing his carving techniques with others, potentially providing more insights into his creative process.",
+      "c": "Without the detour of pretending to punch himself in the mirror, the individual might have chosen to sit down and discuss his pumpkin designs sooner, leading to a more efficient use of his time.",
+      "d": "Had the guy not spent time mimicking punching movements in the mirror, he would have taken a picture of his carving before wrapping it in toilet paper."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_z3xkE5Ox-2A",
+    "question": "What might the guy do after taking a picture of his pumpkin carving?",
+    "options": {
+      "a": "After taking a picture of his carving, the guy might share it with others or display it.",
+      "b": "After taking a picture of his carving, the guy might decide to create a tutorial video explaining the carving process, detailing each step meticulously, and then uploading it to a popular video-sharing platform to gain feedback and followers.",
+      "c": "After taking a picture of his carving, the guy might consider embarking on a journey to explore the historical significance of pumpkin carving in different cultures, documenting his findings in a comprehensive article for an international journal.",
+      "d": "After taking a picture of his carving, the guy might choose to analyze the photo extensively to identify any imperfections, then proceed to gather more pumpkins for a comparative study to improve his technique for future carvings."
+    },
+    "answer": "a",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_dySzHZniFCo",
+    "question": "What happens after the girl with the hand fan finishes her performance on stage?",
+    "options": {
+      "a": "After she leaves, the master comes on stage along with three other students.",
+      "b": "After she leaves, the stage transforms into a vibrant display of colors, setting the scene for a grand finale with fireworks.",
+      "c": "After she leaves, the lights dim, and a group of musicians take the stage to perform a dramatic piece.",
+      "d": "After she leaves, a lengthy speech about the history of karate is delivered by a guest speaker."
+    },
+    "answer": "a",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_dySzHZniFCo",
+    "question": "What does one of the girls use during her karate performance on stage?",
+    "options": {
+      "a": "She uses a baton.",
+      "b": "She uses two hammers.",
+      "c": "She uses a board.",
+      "d": "She uses a hand fan."
+    },
+    "answer": "d",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_dySzHZniFCo",
+    "question": "What could be a reason why the karate performances might not have impressed the audience?",
+    "options": {
+      "a": "The performances might have lacked visual interest and may not have demonstrated their skills with those specific props.",
+      "b": "The performers executed their moves with precision and flair, captivating the audience with their exceptional coordination and mastery of karate techniques.",
+      "c": "The stage was set with dramatic lighting and sound effects, which enhanced the overall presentation, making it a memorable experience for the viewers.",
+      "d": "The students were highly skilled and used the props effectively to showcase their expertise, leaving the audience in awe."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_dySzHZniFCo",
+    "question": "What might happen after the karate students and master finish their performance on stage?",
+    "options": {
+      "a": "The master might decide to challenge a student to a friendly sparring match to showcase his skills further and to entertain the audience with an unexpected twist.",
+      "b": "It's plausible that the students will perform an encore, adding a surprise element to the event by introducing additional props or involving audience participation.",
+      "c": "We can expect the master to possibly congratulate them or provide feedback on their performances.",
+      "d": "The master could potentially announce an upcoming tournament, providing details about future events and encouraging the students to participate while motivating them with stories of past successes."
+    },
+    "answer": "c",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_jQHGyqk21GI",
+    "question": "What scene is depicted from the riverbed perspective?",
+    "options": {
+      "a": "Food is being cooked for the party and plated to the attendees.",
+      "b": "We see them from the riverbed looking across, with a farm building in the background.",
+      "c": "People are in the river in a boat rushing downstream as the water splashes them.",
+      "d": "A woman talks to the camera."
+    },
+    "answer": "b",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_jQHGyqk21GI",
+    "question": "Which of the following actions is being performed by the group in the video?",
+    "options": {
+      "a": "The 6 people row vigorously.",
+      "b": "People jump from a rock into the river.",
+      "c": "A woman talks to the camera.",
+      "d": "A mountain panorama is displayed onscreen."
+    },
+    "answer": "a",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_jQHGyqk21GI",
+    "question": "Why did the group take selfies on dry land after their river adventure?",
+    "options": {
+      "a": "They planned to create a social media post detailing their journey, and taking selfies on dry land was part of their comprehensive documentation process.",
+      "b": "They wanted to make sure everyone was still present after the potentially dangerous activity and that no one got lost or hurt during the adventurous boat ride.",
+      "c": "There was a scenic view that could only be appreciated from that particular spot on dry land, which they hadn't seen while on the river.",
+      "d": "After being in the river and experiencing the boat ride, they likely wanted to capture the memory."
+    },
+    "answer": "d",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_jQHGyqk21GI",
+    "question": "Why might the man have needed to point out directions to the other riders?",
+    "options": {
+      "a": "In order to maintain the group cohesion and ensure that everyone reached the destination safely, the man felt it necessary to provide clear and precise directions, preventing any possible divergence from the intended course.",
+      "b": "The directions were crucial as the path was not only winding but also had several intersecting routes that could easily mislead even the most experienced riders.",
+      "c": "The man wanted to ensure everyone understood the exact path to take amidst the complex terrain and avoid any potential mishaps that could occur due to miscommunication.",
+      "d": "The other riders might have gotten confused about which direction to take."
+    },
+    "answer": "d",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_jQHGyqk21GI",
+    "question": "What is the next likely activity for the attendees after the food is plated?",
+    "options": {
+      "a": "The attendees will likely engage in another round of rowing.",
+      "b": "The attendees might prepare for a group photo session by the river.",
+      "c": "The attendees will likely start eating and enjoying the meal.",
+      "d": "The attendees could start organizing a cleanup of the picnic area to maintain cleanliness and ensure everything is left in pristine condition for future visitors, with everyone participating actively."
+    },
+    "answer": "c",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_6Yn2U58qxPs",
+    "question": "What action does the man in the black shirt perform after talking with his partner?",
+    "options": {
+      "a": "He examines the climbing gear carefully.",
+      "b": "He climbs the rock wall then down again.",
+      "c": "He sits down to rest and chat with his partner.",
+      "d": "He demonstrates a new climbing technique."
+    },
+    "answer": "b",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_6Yn2U58qxPs",
+    "question": "What happens after the man in the black shirt starts climbing the rock?",
+    "options": {
+      "a": "The man in black climbs the rock wall then down again.",
+      "b": "The two men then begin to talk.",
+      "c": "We see men in rock climbing gear talking about climbing.",
+      "d": "If the weather had been more favorable, the climbers might have decided to attempt a different route, potentially leading to a more challenging climb and perhaps even requiring additional safety measures."
+    },
+    "answer": "b",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_6Yn2U58qxPs",
+    "question": "What is the likely purpose of the conversation that follows the climbing attempt?",
+    "options": {
+      "a": "The conversation likely involves planning the next climbing route and discussing the weather conditions expected in the coming days for future climbs.",
+      "b": "The conversation likely follows the climbing attempt to discuss the climb or the man's performance.",
+      "c": "The conversation likely involves a detailed analysis of the geological structure of the rock wall to assess its historical significance and how weathering might affect its form over the next several decades.",
+      "d": "The conversation likely involves a discussion about potential sponsorship deals and how the climbing expedition could be turned into a commercial venture with extensive marketing strategies."
+    },
+    "answer": "b",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_6Yn2U58qxPs",
+    "question": "What might have happened if the two men did not discuss the climb after the man in a black shirt started climbing the rock?",
+    "options": {
+      "a": "The man in black might have climbed without considering the safety measures, leading to potential risks.",
+      "b": "Their climbing strategy might have lacked synchronization, resulting in inefficient climbing.",
+      "c": "The two men might not have had a reason to discuss the climb.",
+      "d": "The conversation about climbing techniques might have enriched their understanding and improved their performance."
+    },
+    "answer": "c",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_6Yn2U58qxPs",
+    "question": "What might the men talk about after the climbing session?",
+    "options": {
+      "a": "They might elaborate on their future climbing plans, including potential locations and the diverse challenges they anticipate encountering.",
+      "b": "They might reflect on their personal motivations for climbing, exploring the deeper psychological and emotional reasons behind their passion for this adventurous sport.",
+      "c": "They might talk about their equipment and how it was specifically chosen to match the rock wall's unique features and conditions.",
+      "d": "They might discuss the climbing experience and techniques used."
+    },
+    "answer": "d",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_qkk2tK19sx8",
+    "question": "What does the gymnast do after performing on the pommel horse?",
+    "options": {
+      "a": "The gymnast stands on his hands, turns, and jumps to land on the mat, then walks.",
+      "b": "The gymnast engages in a complex routine involving flips, spins, and finally concludes with a handstand.",
+      "c": "The gymnast performs a series of backflips, lands gracefully, and then takes a bow to the audience.",
+      "d": "The gymnast dismounts by flipping backwards, lands on his feet, and waves to the crowd as he exits."
+    },
+    "answer": "a",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_qkk2tK19sx8",
+    "question": "What is happening behind the pommel horse?",
+    "options": {
+      "a": "The person is taking pictures of the gymnast.",
+      "b": "The person is resting while listening to music.",
+      "c": "The person is reading a book on gymnastics.",
+      "d": "The person is drawing a sketch of the gymnast."
+    },
+    "answer": "a",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_qkk2tK19sx8",
+    "question": "What is the reason for the gymnast jumping and landing on the mat?",
+    "options": {
+      "a": "The gymnast jumps and lands on the mat because he was startled by the flash of the camera and wanted to quickly finish his routine, making sure to maintain his composure and poise for the judges watching intently.",
+      "b": "The gymnast jumps and lands on the mat as he wanted to conclude his routine with a flourish, using the jump to emphasize his skill and control, thereby impressing both the judges and the audience who were eagerly watching his every move.",
+      "c": "The gymnast jumps and lands on the mat as a part of completing his routine after performing on the pommel horse.",
+      "d": "The gymnast jumps and lands on the mat because he lost his balance during the pommel horse routine and needed to recover gracefully, ensuring he finishes his performance without any deductions and maintaining the rhythm of his overall gymnastic presentation."
+    },
+    "answer": "c",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_qkk2tK19sx8",
+    "question": "What would have happened if the person behind the pommel horse did not take pictures?",
+    "options": {
+      "a": "There would be no photographic record of the gymnast's performance on the pommel horse.",
+      "b": "The event organizers might have arranged for another photographer to document the performance.",
+      "c": "The gymnast would have needed to repeat the performance to ensure it was captured.",
+      "d": "The audience might have relied solely on their memories to recall the gymnast's performance."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_qkk2tK19sx8",
+    "question": "What might the man holding a paper and pen be planning to do after observing the gymnast's routine?",
+    "options": {
+      "a": "The man might detail a comprehensive analysis of the gymnast's routine, considering every possible angle and preparing a thorough report to present to the rest of the team for an in-depth review.",
+      "b": "The man might meticulously plan an elaborate training program based on his observations, taking into account every possible variable and ensuring no stone is left unturned in the pursuit of athletic excellence.",
+      "c": "The man might be contemplating the broader implications of the gymnast's technique and how it could revolutionize the sport, potentially leading to extensive discussions with the coaching team and strategic planning for future training sessions.",
+      "d": "The man might write notes or give feedback related to the gymnast's performance."
+    },
+    "answer": "d",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_v2zVnmbPmeQ",
+    "question": "What is the young woman primarily doing throughout the video?",
+    "options": {
+      "a": "She is speaking to the camera.",
+      "b": "She is dancing in front of the camera.",
+      "c": "She is drawing on a canvas.",
+      "d": "She is cooking in the kitchen."
+    },
+    "answer": "a",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_v2zVnmbPmeQ",
+    "question": "What does the young woman do while speaking to the camera?",
+    "options": {
+      "a": "She applies makeup to both of her eyes.",
+      "b": "She stands in front of a brick wall.",
+      "c": "She applies cover up makeup to her face.",
+      "d": "She finishes by applying lipstick."
+    },
+    "answer": "a",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_v2zVnmbPmeQ",
+    "question": "Why does the young woman go back to apply eyeliner to her eyes?",
+    "options": {
+      "a": "She believes that applying eyeliner will complete the makeup tutorial effectively.",
+      "b": "She goes back to apply eyeliner to her eyes.",
+      "c": "She is following a makeup trend that emphasizes the eyes, making them a focal point.",
+      "d": "She wants to enhance the definition of her eyes for a more striking look."
+    },
+    "answer": "b",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_v2zVnmbPmeQ",
+    "question": "What might have been different if the young woman had followed a different sequence in her makeup application?",
+    "options": {
+      "a": "She might have chosen to apply cover up makeup before any eye makeup, which would have altered the foundation of her makeup routine and possibly affected the final outcome of the entire process.",
+      "b": "She might have moved directly to applying eyeliner after eye makeup.",
+      "c": "She could have started by applying lipstick before any other makeup, which might have influenced the final look significantly and possibly changed the audience's perception of the tutorial.",
+      "d": "She might have decided to apply mascara after all other makeup steps, which could have resulted in a different emphasis on her eyes and potentially changed the way her instructions were perceived by the viewers."
+    },
+    "answer": "b",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_v2zVnmbPmeQ",
+    "question": "What might the young woman do after finishing her makeup tutorial video?",
+    "options": {
+      "a": "She could consider demonstrating how to remove the makeup effectively, providing insights into her personal routine for maintaining skin health after wearing makeup for extended periods.",
+      "b": "She could start a new topic unrelated to makeup, perhaps discussing skincare tips or other beauty routines that complement the makeup tutorial she just completed.",
+      "c": "She might conclude the video or give final instructions.",
+      "d": "She might begin to engage with the viewers by answering questions or reading comments, which could lead to a more interactive segment of the video, potentially lengthening the engagement with her audience."
+    },
+    "answer": "c",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_eXMF6Skt2To",
+    "question": "What happens right before the men start riding their dirt bikes?",
+    "options": {
+      "a": "A girl holds up the start card.",
+      "b": "A man falls off his bike hard.",
+      "c": "We see images of men in uniforms.",
+      "d": "A lady is washing a bike."
+    },
+    "answer": "a",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_eXMF6Skt2To",
+    "question": "What happens immediately after the girl holds up the start card?",
+    "options": {
+      "a": "We see images of men in uniforms in various locations.",
+      "b": "A lady is washing a bike in the background.",
+      "c": "Fireworks go off in the air, illuminating the scene.",
+      "d": "The men start after the card and ride their dirt bikes."
+    },
+    "answer": "d",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_eXMF6Skt2To",
+    "question": "What action does the winner take to celebrate their victory after the race?",
+    "options": {
+      "a": "The winner plans a detailed vacation as a reward for their hard work, choosing a destination that offers relaxation and adventure, symbolizing both achievement and leisure.",
+      "b": "The winner decides to immediately organize a grand party with friends and family to commemorate the triumph and to share the joy and excitement of the moment with loved ones.",
+      "c": "The winner does this to celebrate winning the race.",
+      "d": "The winner gives a long speech about their journey and the challenges faced during the race, reflecting on the dedication and perseverance that led to their success."
+    },
+    "answer": "c",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_eXMF6Skt2To",
+    "question": "What is most likely to happen after the winner throws hands in the air and gives high fives?",
+    "options": {
+      "a": "The organizers might begin preparing for the award ceremony, setting up the podium and ensuring the trophies are ready for presentation to the top finishers.",
+      "b": "The crowd might start cheering loudly as the winner is celebrated with more high fives and maybe even a victory lap around the track.",
+      "c": "The end titles appear on a black screen.",
+      "d": "The competitors may gather for a group photo, capturing the moment of triumph and camaraderie which is often seen after intense competitions."
+    },
+    "answer": "c",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_eXMF6Skt2To",
+    "question": "What might have happened if the man who fell off his bike had not fallen?",
+    "options": {
+      "a": "He might have continued the race and possibly finished in a higher position.",
+      "b": "He might have saved time and energy, allowing him to compete fiercely against other racers, perhaps even leading to a podium finish.",
+      "c": "He could have maintained his momentum and rhythm, which might have significantly altered the race dynamics, possibly leading to an unexpected outcome.",
+      "d": "He could have avoided injuries and maintained a steady pace, potentially giving him an advantage in the race."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_pqVWGi0d4RU",
+    "question": "What action do men take when a player falls on the ice during the ice hockey game?",
+    "options": {
+      "a": "Men help the player stand.",
+      "b": "Men ignore the player and continue playing.",
+      "c": "Men call for an ambulance immediately.",
+      "d": "Men cheer as the player stands up quickly."
+    },
+    "answer": "a",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_pqVWGi0d4RU",
+    "question": "What action occurs after the red team scores during the ice hockey game?",
+    "options": {
+      "a": "The audience cheers.",
+      "b": "The team jumps.",
+      "c": "The coach gives instructions.",
+      "d": "The players rest."
+    },
+    "answer": "b",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_pqVWGi0d4RU",
+    "question": "Why did the team jump during the ice hockey game?",
+    "options": {
+      "a": "They jump because the red team scored.",
+      "b": "They jump because one player from the red team made a spectacular save that kept the game tied.",
+      "c": "They jump because the game was about to end and they wanted to celebrate prematurely.",
+      "d": "They jump because the coach gave an inspirational speech that motivated them to play harder."
+    },
+    "answer": "a",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_pqVWGi0d4RU",
+    "question": "Based on the events described, what might happen after a player falls on the ice during the game?",
+    "options": {
+      "a": "The team might continue to play and possibly win.",
+      "b": "The game could potentially be paused while the player receives medical attention, and then they might assess if it's safe to continue.",
+      "c": "Spectators might express concern for the injured player, leading to a moment of silence, before the game resumes with heightened tension.",
+      "d": "Players might engage in a strategic discussion to modify their approach for the rest of the game, considering the recent fall."
+    },
+    "answer": "a",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_pqVWGi0d4RU",
+    "question": "What could have happened if the player who fell on the ice was not helped to stand?",
+    "options": {
+      "a": "He might have remained on the ice, affecting the flow of the game.",
+      "b": "The player might have been left unattended, leading to confusion among the team members and possibly affecting their morale and performance.",
+      "c": "The player could have stayed down and it might have led to a significant delay, causing a change in team strategies and potentially altering the outcome of the match.",
+      "d": "The game might have been paused indefinitely, leading to audience dissatisfaction and requiring intervention from the referees to resume play."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_olBh9KMAHMQ",
+    "question": "What does the man do in the yard?",
+    "options": {
+      "a": "The man wears a hat.",
+      "b": "The man reads a book.",
+      "c": "The man drinks coffee.",
+      "d": "The man carries a shovel."
+    },
+    "answer": "d",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_olBh9KMAHMQ",
+    "question": "What does the man do after putting on his gloves?",
+    "options": {
+      "a": "He spins the shovel in the air.",
+      "b": "He dances a bit in the yard.",
+      "c": "He walks back into his garage.",
+      "d": "He shovels the snow."
+    },
+    "answer": "b",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_olBh9KMAHMQ",
+    "question": "What action does the man take after he finishes shoveling snow, and why might he have chosen to do so?",
+    "options": {
+      "a": "The man decides to continue dancing in the yard as he feels a sense of joy and accomplishment after shoveling the snow.",
+      "b": "The man chooses to start a snowball fight with an imaginary opponent, believing it will add more fun to his snowy day.",
+      "c": "The man opts to build a snowman to make use of the remaining snow, thinking it will be a delightful surprise for his family.",
+      "d": "The man walks back into his garage after finishing shoveling snow."
+    },
+    "answer": "d",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_olBh9KMAHMQ",
+    "question": "What might have happened if the man did not put on his gloves before dancing in the yard?",
+    "options": {
+      "a": "If the man did not put on his gloves, his hands might have been cold or uncomfortable while dancing.",
+      "b": "Not wearing gloves could have resulted in the man having to frequently stop his dance to warm his hands, potentially disrupting the flow of his movements and affecting his overall enjoyment of the activity.",
+      "c": "The absence of gloves might have led to the man experiencing severe cold and discomfort, which could have discouraged him from dancing or shoveling altogether, thus altering his plans for the day.",
+      "d": "Without his gloves, the man may have found it difficult to grip the shovel properly, leading to inefficient shoveling and possibly prolonging the time spent in the cold, thus increasing his discomfort."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_olBh9KMAHMQ",
+    "question": "What is likely to happen after the man finishes shoveling and spins the shovel for the second time?",
+    "options": {
+      "a": "The man might decide to shovel the remaining snow in a different area before entering the garage, reflecting on how much work is left.",
+      "b": "The video likely ends after the blue ending title screen appears.",
+      "c": "The man might plan to call a friend to discuss the best techniques for shoveling efficiently, given the amount of snow they have received.",
+      "d": "The man could consider taking a break to sip a hot beverage, perhaps gauging the weather to decide if he needs to shovel more later."
+    },
+    "answer": "b",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_ZcgahXg_ELw",
+    "question": "What action does another diver do in the video?",
+    "options": {
+      "a": "Another diver waves to the camera.",
+      "b": "A manta ray swims on the ocean floor.",
+      "c": "A boat floats in the ocean.",
+      "d": "A baby shark swims along the ocean floor."
+    },
+    "answer": "a",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_ZcgahXg_ELw",
+    "question": "What action is performed by one of the divers during the underwater scene?",
+    "options": {
+      "a": "A manta ray glides above the coral reef.",
+      "b": "A diver waves and gives a thumbs up.",
+      "c": "A baby shark swims along the ocean floor.",
+      "d": "A group of divers collects underwater samples."
+    },
+    "answer": "b",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_ZcgahXg_ELw",
+    "question": "Why do the divers wave to the camera in the underwater footage?",
+    "options": {
+      "a": "The act of waving is a carefully planned part of the filming process, intended to create a narrative of friendliness and harmony between humans and marine life, promoting a message of environmental consciousness.",
+      "b": "The divers wave to attract the attention of the marine life, believing this would result in a more engaging scene by making the creatures curious, thus enhancing the visual appeal of the footage.",
+      "c": "They wave as part of the series of diver shots showing interaction with the camera.",
+      "d": "Waving serves as a universal gesture of communication underwater, where verbal cues are not possible, and is used to ensure the cameraman is aware of their presence and can focus the lens appropriately."
+    },
+    "answer": "c",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_ZcgahXg_ELw",
+    "question": "What might have happened if the focus had not shifted more to the divers and manta ray on the ocean floor?",
+    "options": {
+      "a": "The video might have highlighted the vibrant colors of different species of fish, emphasizing marine biodiversity.",
+      "b": "The focus might have shifted more to the divers and manta ray on the ocean floor.",
+      "c": "The divers might have interacted more with the baby shark, providing a view of their interaction dynamics.",
+      "d": "The narrative could have revolved around the behavior of the ocean currents and their effect on the sealife."
+    },
+    "answer": "b",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_ZcgahXg_ELw",
+    "question": "Based on the video captions, what might be a future development in the interactions showcased?",
+    "options": {
+      "a": "The divers may decide to increase the frequency of their dives, potentially leading to greater understanding and appreciation of underwater ecosystems in the long term.",
+      "b": "The divers could develop advanced techniques for interacting with marine life, leading to groundbreaking discoveries and possibly revolutionizing underwater exploration as we know it.",
+      "c": "Future dives might include more sophisticated equipment, allowing divers to capture even more detailed footage and potentially leading to new insights about the ocean's mysteries that have eluded scientists for centuries.",
+      "d": "We might expect to see more interactions between the divers and marine life."
+    },
+    "answer": "d",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_qA_KTu8oTW4",
+    "question": "What does the baton girl's routine include?",
+    "options": {
+      "a": "The baton girl's routine includes a small group of cheerleaders cheering nearby.",
+      "b": "The baton girl's routine includes a large group of people in a band playing instruments.",
+      "c": "The baton girl's routine includes a lot of twirling and tossing of the baton.",
+      "d": "The baton girl's routine includes finishing with a wave and bending down to pick up batons."
+    },
+    "answer": "c",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_qA_KTu8oTW4",
+    "question": "What happens after the baton girl picks up 2 more batons?",
+    "options": {
+      "a": "After picking up 2 more batons, the baton girl waves to the crowd and exits the performance area.",
+      "b": "After picking up 2 more batons, the baton girl continues her routine while using all 3 batons.",
+      "c": "After picking up 2 more batons, the baton girl joins the cheering group of cheerleaders on the left.",
+      "d": "After picking up 2 more batons, the baton girl stops her routine to play an instrument with the band."
+    },
+    "answer": "b",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_qA_KTu8oTW4",
+    "question": "Why does the baton girl finish her routine with 2 batons?",
+    "options": {
+      "a": "The baton girl decides to use only 2 batons for better control and performs a flawless routine.",
+      "b": "As part of her routine, she intentionally drops one baton to add an element of surprise and complexity.",
+      "c": "The baton girl finishes her routine with 2 batons because she drops 1 of the batons.",
+      "d": "The performance was designed to conclude with two batons due to a sudden gust of wind that made it safer."
+    },
+    "answer": "c",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_qA_KTu8oTW4",
+    "question": "What might the outcome have been if the baton girl had not dropped one of the batons during her routine?",
+    "options": {
+      "a": "In the absence of the baton being dropped, the dynamics of the routine could have shifted towards a more harmonious integration with the band, enhancing the overall spectacle and creating an unforgettable moment for all attendees, possibly leading to an encore.",
+      "b": "If the baton girl had not dropped one of the batons, the cheerleaders might have been inspired to perform more energetically, leading to a more enthusiastic crowd response and perhaps a longer performance by the band.",
+      "c": "If the baton girl had not dropped one of the batons, she might have finished her routine with all 3 batons.",
+      "d": "Had the baton girl not dropped a baton, the entire sequence of the performance could have been perceived as flawless, potentially resulting in a more thrilling and captivating experience for the audience, who might have expressed their appreciation through louder applause."
+    },
+    "answer": "c",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_qA_KTu8oTW4",
+    "question": "What might the baton girl do after picking up her batons at the end of her routine?",
+    "options": {
+      "a": "After picking up the batons, the baton girl might consider whether she should incorporate more complex maneuvers in her next performance, taking into account the feedback from the audience and her own assessment of how the routine flowed.",
+      "b": "After picking up the batons, the baton girl could either prepare for another routine or leave the performance area.",
+      "c": "After picking up the batons, the baton girl might contemplate if she should engage in a brief conversation with her team about the performance or perhaps discuss new ideas that could improve their synchronized movements and overall presentation.",
+      "d": "After picking up the batons, the baton girl could evaluate the possibility of rehearsing additional techniques that she hasn't mastered yet, thinking about how they could enhance the aesthetic appeal of her future performances and captivate the audience more effectively."
+    },
+    "answer": "b",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v__D9oML1HvVw",
+    "question": "Where does the man flip off from in the clip?",
+    "options": {
+      "a": "A blue, garden chair.",
+      "b": "A brown, picnic table.",
+      "c": "A red, wooden bench.",
+      "d": "A green, park bench."
+    },
+    "answer": "b",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v__D9oML1HvVw",
+    "question": "What happens to the man walking on the slack line?",
+    "options": {
+      "a": "A person does flips around the slack line.",
+      "b": "A guy flips off a slack line and lands on his body.",
+      "c": "A male flips off a brown, picnic table.",
+      "d": "A man walks on a slack line and falls off."
+    },
+    "answer": "d",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v__D9oML1HvVw",
+    "question": "What might have caused the man to fall off the slack line?",
+    "options": {
+      "a": "The man was distracted by the surrounding environment, possibly causing him to lose focus and consequently his balance, leading to the fall.",
+      "b": "The weather conditions, such as a sudden gust of wind, could have affected the man's ability to stay upright on the slack line, resulting in a fall.",
+      "c": "The slack line was not properly tensioned, creating instability that could have made it difficult for the man to maintain his balance while walking.",
+      "d": "The man likely lost balance while walking on the slack line."
+    },
+    "answer": "d",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v__D9oML1HvVw",
+    "question": "What could have happened if the man had not fallen off the slack line?",
+    "options": {
+      "a": "He could have become a world-renowned slackliner, traveling the globe and participating in international events, sharing his passion and expertise with enthusiasts everywhere.",
+      "b": "He would have joined a slacklining competition and showcased his skills to a large audience, potentially inspiring others to take up the sport and pushing the boundaries of what is possible on a slack line.",
+      "c": "He might have set a new world record for the longest time spent performing continuous tricks on a slack line, gaining widespread recognition and acclaim in the slacklining community.",
+      "d": "He might have continued performing more tricks on the slack line."
+    },
+    "answer": "d",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v__D9oML1HvVw",
+    "question": "What might the person attempt next on or around the slack line?",
+    "options": {
+      "a": "The individual could possibly consider trying to balance on the slack line for a longer period, which would demonstrate improved stability and control.",
+      "b": "The performer might decide to incorporate additional elements into their routine, such as using props or collaborating with others to create a more dynamic performance.",
+      "c": "The participant might explore different environments to perform their slack line tricks, potentially adding a scenic backdrop to enhance the visual appeal of their stunts.",
+      "d": "The person might attempt more advanced flips or tricks on or around the slack line."
+    },
+    "answer": "d",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_MwQTeFD0OKQ",
+    "question": "What event is depicted in the video?",
+    "options": {
+      "a": "A couple dance on stage.",
+      "b": "Guys lift weights and some celebrate.",
+      "c": "A group of four pose outside.",
+      "d": "The audience cheer and applaud."
+    },
+    "answer": "d",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_MwQTeFD0OKQ",
+    "question": "What happens after a male individual carries three females?",
+    "options": {
+      "a": "A group of four pose outside.",
+      "b": "The audience cheer and applaud.",
+      "c": "A couple dance on stage.",
+      "d": "Guys lift weights and some celebrate."
+    },
+    "answer": "d",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_MwQTeFD0OKQ",
+    "question": "What could be the reason for the celebration in the video?",
+    "options": {
+      "a": "The dancers on stage might have performed an exceptionally moving routine that captivated the audience, resulting in an outburst of applause and celebration as a form of appreciation for the artistic display.",
+      "b": "The celebration could be due to successfully lifting the weights.",
+      "c": "The celebration could be a result of the athlete flexing his muscles in such an impressive manner that it incited a sense of awe and excitement among the onlookers, prompting them to cheer enthusiastically.",
+      "d": "The celebration might be because the group posed outside in the cold, which could be a significant achievement given the weather conditions, thus leading to a sense of triumph and joy among the participants."
+    },
+    "answer": "b",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_MwQTeFD0OKQ",
+    "question": "What might have happened if the credits of the clip were not shown?",
+    "options": {
+      "a": "The man might not have massaged the male.",
+      "b": "The group of four might have posed differently outside.",
+      "c": "The athlete might have flexed his guns more prominently.",
+      "d": "The audience might not have focused on the athlete's physique."
+    },
+    "answer": "d",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_MwQTeFD0OKQ",
+    "question": "What might the performers do after the audience cheers and applauds?",
+    "options": {
+      "a": "They might decide to give a heartfelt speech thanking the audience for their support, sharing anecdotes from their journey, and expressing their gratitude in a manner that resonates with everyone present.",
+      "b": "They could choose to stay on stage a little longer, interacting with the audience, sharing behind-the-scenes stories, and possibly hinting at future projects or collaborations that the fans can look forward to.",
+      "c": "They might take a bow or leave the stage.",
+      "d": "They could potentially engage in an encore performance, delighting the audience with an unexpected continuation of their act, thereby extending the joyous atmosphere and giving the spectators more to applaud."
+    },
+    "answer": "c",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_i0Z8I2WCLNk",
+    "question": "What action does the man perform after standing up and touching the vines?",
+    "options": {
+      "a": "The man stops and talks to the camera.",
+      "b": "The man sits back down and observes the surroundings.",
+      "c": "The man waves his hands over the vine.",
+      "d": "The man cuts a few parts of the vine."
+    },
+    "answer": "d",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_i0Z8I2WCLNk",
+    "question": "What action does the man perform after cutting a few parts of the vine?",
+    "options": {
+      "a": "The man stands back and observes the vine.",
+      "b": "The man gently touches the vines.",
+      "c": "The man carefully examines the vines.",
+      "d": "The man waves his hands over the vine."
+    },
+    "answer": "d",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_i0Z8I2WCLNk",
+    "question": "Why does the man cut the vine in the video?",
+    "options": {
+      "a": "The man cuts the vine to clear the area for new plants, ensuring that the field is prepared for the upcoming planting season and to prevent overgrowth.",
+      "b": "The man cuts the vine to demonstrate a technique for educational purposes, showing different ways to manage plant growth in a sustainable manner.",
+      "c": "The man cuts the vine to presumably prune or harvest it.",
+      "d": "The man cuts the vine to check the health of the plant, assessing whether the vine has been affected by pests or disease, which requires close inspection and careful consideration."
+    },
+    "answer": "c",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_i0Z8I2WCLNk",
+    "question": "What might the man do after the screen fades to black, considering the context of the events shown?",
+    "options": {
+      "a": "The man may choose to ponder over the day's work, reflecting on the effectiveness of his vine-cutting technique and considering innovative methods for enhancing the growth potential of the plants.",
+      "b": "The man might decide to analyze the growth patterns of the vines in a detailed manner, possibly considering factors such as sunlight, soil quality, and watering frequency, which could provide him with insights for future agricultural endeavors.",
+      "c": "The man might leave the field or continue with other tasks.",
+      "d": "The man could potentially engage in a thorough assessment of the vines, thinking about the potential for expanding his vineyard and strategizing on the best approaches for maximizing yield and quality in the upcoming seasons."
+    },
+    "answer": "c",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_i0Z8I2WCLNk",
+    "question": "What might have happened if the man had not tended to the vines?",
+    "options": {
+      "a": "The vines might have grown unchecked or not produced as effectively.",
+      "b": "The vines might have developed a completely different growth trajectory, potentially resulting in a much larger or smaller size, which could have had significant impacts on the surrounding flora and fauna, altering the entire balance of the habitat.",
+      "c": "The vines might have evolved new characteristics, attracting different kinds of insects and birds, thereby changing the biodiversity of the area and possibly leading to unexpected ecological consequences that could affect the entire region.",
+      "d": "The vines might have grown with a different color and texture, possibly due to the lack of interaction and care, which could have altered their natural growth pattern and the overall ecosystem in the field."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_Y0G_wA38HkI",
+    "question": "What is the first thing that appears in the video?",
+    "options": {
+      "a": "The man performs a kitesurfing flip.",
+      "b": "A swirl appears on a black title screen.",
+      "c": "The ending video credits load.",
+      "d": "The video rewinds to show a flip again."
+    },
+    "answer": "b",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_Y0G_wA38HkI",
+    "question": "What happens immediately after the man performs a flip in the air?",
+    "options": {
+      "a": "After the man performs a flip in the air, he proceeds to perform another different trick.",
+      "b": "After the man performs a flip in the air, the video rewinds to show the flip again.",
+      "c": "After the man performs a flip in the air, a title screen appears.",
+      "d": "After the man performs a flip in the air, he lands smoothly on the water."
+    },
+    "answer": "c",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_Y0G_wA38HkI",
+    "question": "Why do we see the flip multiple times in the video?",
+    "options": {
+      "a": "We see the flip multiple times because the video rewinds and replays the flip.",
+      "b": "The video creator probably aimed to create a dramatic effect by repeating the flip to convey a sense of excitement and mastery in the sport.",
+      "c": "The video editor likely wanted to emphasize the skill involved, so they opted to rewind and replay the flip for better viewer understanding.",
+      "d": "Multiple angles were captured during the flip, and the editor decided to show each one sequentially to highlight the action from all perspectives."
+    },
+    "answer": "a",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_Y0G_wA38HkI",
+    "question": "What would have been the outcome if the video had not included a rewind feature?",
+    "options": {
+      "a": "Had the video not incorporated a rewind element, the narrative would have unfolded in a straightforward sequence, presenting each kitesurfing trick as a unique, singular occurrence, possibly altering the viewer's perception of the action's dynamism.",
+      "b": "If the video did not rewind, we would have seen the flip only once.",
+      "c": "In the absence of a rewind, the video would have proceeded linearly, showcasing the kitesurfing stunts in a seamless manner, which could potentially enhance the viewer's engagement with the uninterrupted progression of events.",
+      "d": "Without the rewind, the flow of the video would have been continuous, allowing the viewer to experience the kitesurfing action without repetition, thereby maintaining a smooth narrative rhythm."
+    },
+    "answer": "b",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_py26bxAfOEg",
+    "question": "What activity do people engage in using inflated tires in the video?",
+    "options": {
+      "a": "People use inflated tires to create a musical instrument.",
+      "b": "People use inflated tires to build a shelter on the beach.",
+      "c": "People use inflated tires to float on the water.",
+      "d": "People use inflated tires to form a barrier around the water."
+    },
+    "answer": "c",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_py26bxAfOEg",
+    "question": "What event occurs when people are standing in a shallow part of the body of water?",
+    "options": {
+      "a": "People are floating on inflated tires in the shallow part of the water.",
+      "b": "A woman splashes water on a man floating nearby.",
+      "c": "People are standing in a shallow part of the body of water, and a guy falls into the water.",
+      "d": "People take the inflated tires out of the water while standing in the shallow water."
+    },
+    "answer": "c",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_py26bxAfOEg",
+    "question": "Why might people take the inflated tires out of the water?",
+    "options": {
+      "a": "It could be that the water is getting colder, and they decide to take the tires out to prevent them from being damaged by the cold temperature.",
+      "b": "Perhaps they are removing the tires to clean them before using them again later, ensuring they remain in good condition for future use.",
+      "c": "They might be preparing to leave the area and therefore need to gather all of their belongings, including the tires, to pack up their things efficiently.",
+      "d": "People take the inflated tires out of the water possibly because they are done using them to float."
+    },
+    "answer": "d",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_py26bxAfOEg",
+    "question": "What might have happened if the situation had been different in the event where the woman splashed water on the man?",
+    "options": {
+      "a": "In a scenario where the woman refrained from splashing water, it is plausible that the entire group would have continued enjoying a peaceful time by the water, perhaps leading to a more relaxed and harmonious gathering.",
+      "b": "Had the woman decided to engage in a conversation instead of splashing water, the atmosphere might have remained calm and the man's floating experience would have been serene and uninterrupted.",
+      "c": "If the woman had chosen to relax and enjoy the serenity of the moment, both she and the man would likely have experienced a tranquil and harmonious interaction as they floated peacefully on the water.",
+      "d": "If the woman did not splash water on the man, he might have continued floating undisturbed."
+    },
+    "answer": "d",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_py26bxAfOEg",
+    "question": "What might people do after using the rope to dive into the water?",
+    "options": {
+      "a": "After using the rope to dive into the water, people might organize an impromptu synchronized swimming performance, complete with choreographed routines, to entertain onlookers.",
+      "b": "After using the rope to dive into the water, people will likely engage in underwater acrobatics, exploring the depths of the water body, interacting with aquatic life before eventually resurfacing.",
+      "c": "After using the rope to dive into the water, people might swim around or climb out to dive again.",
+      "d": "After using the rope to dive into the water, individuals might ponder the meaning of life, contemplate the vastness of the universe while floating on their backs, and experience an epiphany."
+    },
+    "answer": "c",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_VXCV3KUtCdk",
+    "question": "What action does the man perform after talking in the video?",
+    "options": {
+      "a": "The man puts on shoes.",
+      "b": "The man prepares food.",
+      "c": "The man starts driving.",
+      "d": "The man begins to climb."
+    },
+    "answer": "a",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_VXCV3KUtCdk",
+    "question": "What does the man do after driving a car?",
+    "options": {
+      "a": "The man prepares food to eat on a plateau.",
+      "b": "The man drives a car and arrives at a mountain.",
+      "c": "The man climbs the mountain using only his fingers.",
+      "d": "The man puts on shoes before climbing."
+    },
+    "answer": "b",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_VXCV3KUtCdk",
+    "question": "Why does the man prepare food during his mountain climbing expedition?",
+    "options": {
+      "a": "The man prepares food because he was meeting friends at the mountain summit, and they planned to have a group picnic to celebrate the successful climb.",
+      "b": "The man prepares food because he has climbed a mountain carrying a backpack and arrived at a plateau.",
+      "c": "The man prepares food because he forgot to eat breakfast and wanted to have a meal before reaching the top of the mountain, ensuring he had enough energy to continue.",
+      "d": "The man prepares food because of an unexpected weather change, which prompted him to stop and eat while waiting for better conditions to safely continue his ascent."
+    },
+    "answer": "b",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_VXCV3KUtCdk",
+    "question": "What might have been different if the man had carried safety materials during his climb?",
+    "options": {
+      "a": "If the man had carried safety materials, he might have had additional support and protection during the climb.",
+      "b": "Carrying safety materials, the man could have experienced a different kind of adventure, one that involved more assurance and less risk, potentially changing the dynamics of his ascent.",
+      "c": "The presence of safety materials might have altered the man's journey significantly, introducing new variables and considerations that could have affected his overall approach and strategy.",
+      "d": "With safety materials, the man could have had a completely different experience, possibly involving more meticulous planning and a slower pace that prioritizes safety over speed."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_VXCV3KUtCdk",
+    "question": "What is the man likely to do after reaching the top of the steep mountain?",
+    "options": {
+      "a": "After reaching the top of the steep mountain, the man is likely to rest and enjoy the view.",
+      "b": "After reaching the top, the man might decide to immediately start descending the mountain, carefully planning each step to ensure his safety, all while contemplating his next big adventure.",
+      "c": "The man, upon reaching the summit, might engage in a moment of meditation, allowing the serene atmosphere to envelop him, while considering the immense physical and mental challenges he overcame to reach this point.",
+      "d": "Once at the peak, the man could choose to set up a small camp, perhaps taking out his camera to capture the breathtaking scenery, and reflect on the journey that brought him to such heights."
+    },
+    "answer": "a",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_xIhTY02lRSE",
+    "question": "What does the man do after fixing the tire on the bike?",
+    "options": {
+      "a": "The man quickly removes the front tire, fixes it and puts it back on the bike.",
+      "b": "The man airs up the tire, grabs his tools and puts the cap on.",
+      "c": "The man sits on the bike and ponders his next move.",
+      "d": "The man bows, lifts his glasses and starts to walk away."
+    },
+    "answer": "b",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_xIhTY02lRSE",
+    "question": "What action does the man take after fixing the bike tire?",
+    "options": {
+      "a": "The man claps along with the people.",
+      "b": "The man stops and gets off the bike.",
+      "c": "The man waves at the people watching him.",
+      "d": "The man starts riding the bike around the room."
+    },
+    "answer": "b",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_xIhTY02lRSE",
+    "question": "Why do the people watching start to clap?",
+    "options": {
+      "a": "The people clap because they anticipated that the man might struggle with fixing the bike tire, yet he surprised everyone by not only successfully completing the task but doing so with an expertise that highlighted his mechanical skills, leaving the audience in awe.",
+      "b": "The people clap because the man successfully fixes the bike tire and completes his task.",
+      "c": "The people clap because they believed the man's task was challenging, and his ability to handle it with such ease and efficiency demonstrated not only his proficiency but also his commitment to ensuring the bike was in perfect working order, which was quite inspiring.",
+      "d": "The people clap because they were impressed by the man's quick removal of the front tire, his efficient fixing skills, and the manner in which he aired up the tire, showing his expertise and dedication to completing the task with precision."
+    },
+    "answer": "b",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_xIhTY02lRSE",
+    "question": "What might have happened if the man did not successfully fix the tire?",
+    "options": {
+      "a": "Had the man been unable to fix the tire, he might have sought assistance from others in the room, potentially prolonging the event and altering the audience's reaction.",
+      "b": "If the man had failed to fix the tire, he might have felt embarrassed and attempted to fix it again, possibly leading to a longer period of trial and error before achieving a successful outcome.",
+      "c": "If the man did not successfully fix the tire, the people might not have clapped at the end.",
+      "d": "If the tire repair was unsuccessful, the man might have had to explain his actions to the audience, which could have involved a detailed discussion about the challenges he faced during the repair process."
+    },
+    "answer": "c",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_xIhTY02lRSE",
+    "question": "What is the man most likely to do after completing his task on the bike and receiving applause from the audience?",
+    "options": {
+      "a": "The man might decide to perform another trick or repair on the bike to further entertain the crowd and showcase his skills.",
+      "b": "The man could potentially take a moment to explain the repair process to the audience, providing insights into the techniques used during the demonstration.",
+      "c": "The man may start a conversation with the audience, answering any questions they might have about the bike repair or his background in mechanics.",
+      "d": "The man is likely to leave the room or engage in another activity."
+    },
+    "answer": "d",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_U0qUFAPUg_Y",
+    "question": "What happens after the men attempt to pole vault but knock over the pole?",
+    "options": {
+      "a": "The crowd disperses, and the event ends.",
+      "b": "The men try to pole vault but fail again.",
+      "c": "Men pole vault and make it over the pole.",
+      "d": "Judges announce a break in the competition."
+    },
+    "answer": "c",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_U0qUFAPUg_Y",
+    "question": "What is shown on a chain link fence during the event?",
+    "options": {
+      "a": "We see the scores on a chain link fence.",
+      "b": "A man is seen running towards the pole vault.",
+      "c": "The opening title screen is displayed.",
+      "d": "The crowd stands and cheers as a man makes it over the pole."
+    },
+    "answer": "a",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_U0qUFAPUg_Y",
+    "question": "Why does the man pump his fists after the pole vault?",
+    "options": {
+      "a": "He pumps his fists to signal to the crowd that he is ready for the next round, expecting an even more challenging height to conquer and looking forward to the ensuing cheers that might motivate him further.",
+      "b": "He pumps his fists as a way to psych himself up for future attempts, believing that this act will mentally prepare him for overcoming greater heights in the upcoming jumps.",
+      "c": "He pumps his fists in celebration of successfully clearing the pole.",
+      "d": "He pumps his fists because he is frustrated with his previous attempts that failed to clear the pole, leading to a release of pent-up energy and emotions."
+    },
+    "answer": "c",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_U0qUFAPUg_Y",
+    "question": "What might happen at the end of the pole vaulting event based on the sequence of events shown?",
+    "options": {
+      "a": "The event could conclude with a detailed analysis by commentators, where they discuss the performances, potential areas of improvement for the athletes, and predictions for future competitions.",
+      "b": "The event might end with a montage of memorable moments from the competition, showing highlights of the athletes' performances and interviews discussing their techniques and future aspirations.",
+      "c": "The event could end with a celebration where athletes receive medals and give speeches about their experiences and challenges, sharing what inspired them to excel.",
+      "d": "The event might conclude with an ending title screen."
+    },
+    "answer": "d",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_U0qUFAPUg_Y",
+    "question": "What might have happened if the men had practiced more before the event?",
+    "options": {
+      "a": "They would have cleared the pole successfully sooner.",
+      "b": "Their consistent practice might have led to better synchronization with their techniques, allowing them to execute flawless vaults and potentially impress the audience even more.",
+      "c": "They could have increased their chances of clearing the pole, gaining more confidence and perhaps even setting personal records, thus enhancing their overall performance in the competition.",
+      "d": "With additional training, they might have developed greater endurance and precision, possibly leading to a more spectacular display of skill and endurance during the competition."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_rWDMssiL7hE",
+    "question": "What is the woman doing in the bathroom according to the event captions?",
+    "options": {
+      "a": "The woman is applying makeup.",
+      "b": "The woman is brushing her teeth.",
+      "c": "The woman is washing her face.",
+      "d": "The woman is combing her hair."
+    },
+    "answer": "b",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_rWDMssiL7hE",
+    "question": "What happens while the man is talking in the bathroom scene?",
+    "options": {
+      "a": "The PBS|digital studios logo is displayed.",
+      "b": "The man talks while the woman brushes her teeth.",
+      "c": "A subscribe screen for Coma Niddy appears.",
+      "d": "The toothbrush brushes a set of false teeth on screen."
+    },
+    "answer": "b",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_rWDMssiL7hE",
+    "question": "Why are the words 'Modified Bass' overlaid on the screen during the video?",
+    "options": {
+      "a": "The words 'Modified Bass' are included as a metaphorical reference to the deep and resonant impact of proper dental care on one's overall well-being, encouraging viewers to brush with purpose.",
+      "b": "The words 'Modified Bass' signify a new musical rhythm invented by the man in the video, aiming to make tooth brushing more entertaining and rhythmic.",
+      "c": "The words 'Modified Bass' are likely overlaid to indicate a specific brushing technique being demonstrated.",
+      "d": "The words 'Modified Bass' are there to promote a bass fishing competition sponsored by the video creators, which has nothing to do with dental hygiene but adds a fun twist to the video."
+    },
+    "answer": "c",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_rWDMssiL7hE",
+    "question": "What might have been different if the man did not talk while the woman was brushing her teeth?",
+    "options": {
+      "a": "If the man did not talk, the video might have included additional visual aids or animations to highlight the brushing technique, making it more engaging and informative for the audience.",
+      "b": "If the man did not talk, the pacing of the video could have been different, allowing viewers to focus more on the visual demonstration and possibly retaining the information about the Modified Bass technique more effectively.",
+      "c": "If the man did not talk, the focus might have been solely on the brushing demonstration.",
+      "d": "If the man did not talk, there might have been a greater emphasis on the importance of oral hygiene and the specific techniques used in brushing, potentially leading to a more educational experience for the viewer."
+    },
+    "answer": "c",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_rWDMssiL7hE",
+    "question": "What is likely to appear on the screen next after the current sequence of events?",
+    "options": {
+      "a": "The PBS|digital studios logo will likely appear next.",
+      "b": "A lengthy series of interviews with dental health experts discussing the importance of oral hygiene and how different brushing techniques can impact dental health over time, considering factors such as diet and oral care routines.",
+      "c": "The screen will show a detailed explanation of the Modified Bass technique for brushing teeth, possibly with diagrams and additional commentary to ensure viewers fully understand the method.",
+      "d": "A comprehensive video montage of viewers demonstrating their daily tooth brushing routines, complete with personal anecdotes about their dental care journeys and how they have improved their brushing techniques over the years."
+    },
+    "answer": "a",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_6cPXFUqRB1s",
+    "question": "What does the man do with the ball attached to a rope?",
+    "options": {
+      "a": "The man holds it still.",
+      "b": "The man spins it on his finger.",
+      "c": "The man swings it around his body.",
+      "d": "The man rolls it on the ground."
+    },
+    "answer": "c",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_6cPXFUqRB1s",
+    "question": "What happens immediately after the ball lands on the field?",
+    "options": {
+      "a": "The track is shown in full view.",
+      "b": "People measure the distance.",
+      "c": "It shows a replay of the man throwing the ball.",
+      "d": "The man walks off in the other direction."
+    },
+    "answer": "b",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_6cPXFUqRB1s",
+    "question": "Why do people measure the distance after the man throws the ball?",
+    "options": {
+      "a": "They measure the distance to determine the ball's color and material composition.",
+      "b": "They measure the distance to evaluate the throw's outcome.",
+      "c": "The distance is measured to understand the gravitational effects on the ball's trajectory and its impact on the surrounding environment.",
+      "d": "The measurement helps in predicting future weather patterns by analyzing how far the ball travels in various atmospheric conditions."
+    },
+    "answer": "b",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_6cPXFUqRB1s",
+    "question": "After the man walks over to more people, what might he do next?",
+    "options": {
+      "a": "He might engage in conversation or discuss the results with them.",
+      "b": "He might consider the possible improvements in his technique to achieve a greater distance in future attempts, analyzing past performances and setting new goals.",
+      "c": "He might reflect on the impact of the event on his personal development and how participating has shaped his understanding of the sport and his role within the community.",
+      "d": "He might start explaining the technique he used to throw the ball and how it landed at such a distance, considering the angle, speed, and environmental factors that contributed to the final outcome."
+    },
+    "answer": "a",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_6cPXFUqRB1s",
+    "question": "What might have happened if the ball was not thrown into the air?",
+    "options": {
+      "a": "The distance would not have been measured, and the activity would not be completed.",
+      "b": "The rules of the event would have been questioned, leading to a lengthy discussion among the organizers about the validity of such a situation, potentially altering future events to prevent similar occurrences.",
+      "c": "The crowd would have left the field, disappointed by the lack of action, causing the entire event to lose its significance and the participants to reconsider their involvement.",
+      "d": "The man might have stood still with the ball in his hand, pondering his next move, while onlookers waited in anticipation for something to happen, creating a suspenseful atmosphere."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_l4C-l6XeNRc",
+    "question": "What action does the person perform related to the tractor?",
+    "options": {
+      "a": "The person rides the tractor and sings.",
+      "b": "The person pretends to be a girl on the tractor.",
+      "c": "The person gasses and starts a tractor.",
+      "d": "The person dances around the tractor."
+    },
+    "answer": "c",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_l4C-l6XeNRc",
+    "question": "What is the boy in a hat doing in the video?",
+    "options": {
+      "a": "The boy in a hat is doing homework.",
+      "b": "The boy in a hat is pretending to be a girl.",
+      "c": "The boy in a hat is driving the tractor.",
+      "d": "The boy in a hat is sleeping on the tractor."
+    },
+    "answer": "b",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_l4C-l6XeNRc",
+    "question": "What event occurs shortly after the first boy rides the tractor while rapping?",
+    "options": {
+      "a": "The boy in orange rides past a kneeling boy.",
+      "b": "The third boy pretends to sleep on the tractor.",
+      "c": "The three boys dance around the tractor.",
+      "d": "The boy almost hits a tree in the tractor."
+    },
+    "answer": "d",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_l4C-l6XeNRc",
+    "question": "What could have caused the boy to almost hit a tree while on the tractor?",
+    "options": {
+      "a": "The boy was attempting to perform a difficult maneuver on the tractor to impress his friends.",
+      "b": "The boy was likely distracted while rapping and riding the tractor.",
+      "c": "There was an unexpected obstacle in the boy's path that required him to make a sudden adjustment.",
+      "d": "The boy was confused by the controls of the tractor and lost his sense of direction temporarily."
+    },
+    "answer": "b",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_l4C-l6XeNRc",
+    "question": "What might happen as the boy continues to ride the tractor?",
+    "options": {
+      "a": "As the boy rides, he could experience a sudden epiphany that inspires him to create a groundbreaking invention, revolutionizing how tractors are viewed forever.",
+      "b": "The boy might eventually crash into something or cause an accident.",
+      "c": "The boy might encounter a mysterious figure on the road who provides cryptic advice that guides his future decisions.",
+      "d": "The tractor could transform into a more advanced machine, leading to an extraordinary discovery that changes the course of their adventure."
+    },
+    "answer": "b",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_l4C-l6XeNRc",
+    "question": "What could have been the consequences if the boy had actually hit the tree while riding the tractor?",
+    "options": {
+      "a": "The tractor could have been damaged and the boy might have been injured.",
+      "b": "The tree might have fallen over, causing even more damage to the tractor and potentially injuring the boy severely.",
+      "c": "The incident could have caused a chain reaction, leading to the tractor tipping over, which might have resulted in a serious injury to the boy and a disruption in their playful activities.",
+      "d": "The boy would have had to stop his playful activities and possibly call an adult to assess the damage and ensure safety."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_l4C-l6XeNRc",
+    "question": "What do the three boys do around the tractor?",
+    "options": {
+      "a": "The third boy pretends to sleep on the tractor.",
+      "b": "All three boys pause and rap together.",
+      "c": "The three boys dance around the tractor.",
+      "d": "The boys almost hit a tree in the tractor."
+    },
+    "answer": "c",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_l4C-l6XeNRc",
+    "question": "Why did all three boys pause and rap together during the video?",
+    "options": {
+      "a": "They likely paused to perform a coordinated rap as part of their routine.",
+      "b": "The boys needed to pause and synchronize their actions because the rap performance required precise timing, and perhaps they were also trying to engage their audience with a powerful collective moment.",
+      "c": "It could be that the boys anticipated a significant moment to capture the audience's attention with a dramatic pause, which they felt would enhance the impact of their rap and make it more memorable.",
+      "d": "They were attempting to ensure the tractor was in perfect condition by halting its movement and checking its functionality, thus requiring a moment of pause that coincided with their rap."
+    },
+    "answer": "a",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_FrkXeG1YoKg",
+    "question": "What event is shown in the sequence after the slow motion video of one of the vaults?",
+    "options": {
+      "a": "The vault is repeated in slow motion.",
+      "b": "A still image of the vaulter kneeling next to a scoreboard is shown.",
+      "c": "Another pole vaulter's vault is shown.",
+      "d": "Scenes of various pole vaulters vaulting before audiences are shown."
+    },
+    "answer": "c",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_FrkXeG1YoKg",
+    "question": "What is depicted in the still image from the pole vaulting event?",
+    "options": {
+      "a": "A vaulter is shaking hands with a coach.",
+      "b": "A vaulter is kneeling next to a scoreboard.",
+      "c": "A vaulter is adjusting their pole.",
+      "d": "A vaulter is standing on the podium."
+    },
+    "answer": "b",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_FrkXeG1YoKg",
+    "question": "What is the likely reason for the vaulter kneeling next to the scoreboard after their performance?",
+    "options": {
+      "a": "It may represent the vaulter's internal monologue, pondering the philosophical aspects of competition and the fleeting nature of success in the world of athletics.",
+      "b": "It might signify the vaulter's contemplation of the next steps in their training regime, considering improvements and strategies for future competitions.",
+      "c": "It could symbolize the vaulter's deep gratitude and emotional connection to the sport, reflecting on their journey and the effort it took to reach this point in their athletic career.",
+      "d": "It likely indicates the vaulter is checking or acknowledging their performance results."
+    },
+    "answer": "d",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_FrkXeG1YoKg",
+    "question": "Why is the slow motion video of the pole vault shown in the event captions?",
+    "options": {
+      "a": "The slow motion video is likely shown to highlight the technique or performance of a particular vault.",
+      "b": "The slow motion video is shown to extend the runtime of the video, ensuring it meets a specific duration requirement.",
+      "c": "The slow motion video is included to provide a dramatic effect that keeps viewers engaged and enhances the visual storytelling.",
+      "d": "The slow motion video is used as a marketing tactic to emphasize the importance of the event and attract a larger audience."
+    },
+    "answer": "a",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_QBXswoKU4S4",
+    "question": "What action does the player perform during the game?",
+    "options": {
+      "a": "The player throws the ball.",
+      "b": "The player hits the ball.",
+      "c": "The player catches the ball.",
+      "d": "The player runs with the ball."
+    },
+    "answer": "b",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_QBXswoKU4S4",
+    "question": "What happens after the ball is hit in the game?",
+    "options": {
+      "a": "The ball is dropped and bounces on the ground.",
+      "b": "The player misses the ball and it rolls away.",
+      "c": "A teammate runs to the other side of the field.",
+      "d": "Another player catches the ball and throws it back."
+    },
+    "answer": "d",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_QBXswoKU4S4",
+    "question": "Why do the players huddle up after the previous play?",
+    "options": {
+      "a": "They likely huddle up to discuss strategy or celebrate after the previous play.",
+      "b": "The players might be planning a surprise move for the upcoming play, considering all possible outcomes and preparing for any unexpected developments.",
+      "c": "They are probably trying to figure out what went wrong or make adjustments, ensuring they cover all bases and anticipate the next series of plays.",
+      "d": "They could be discussing the weather conditions and their impact on the game, evaluating how it might affect their performance in the subsequent plays, while also sharing personal anecdotes."
+    },
+    "answer": "a",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_QBXswoKU4S4",
+    "question": "Based on the events observed, what is likely to occur next in the game?",
+    "options": {
+      "a": "A prolonged break will be taken, allowing the players to regroup and rejuvenate for future plays.",
+      "b": "The game might resume or a new play might start.",
+      "c": "An unexpected event will transpire, causing a drastic shift in the match's momentum and surprising the audience.",
+      "d": "A detailed strategy discussion will unfold, leading to a significant change in gameplay tactics."
+    },
+    "answer": "b",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_QBXswoKU4S4",
+    "question": "If the player had not caught the ball, how might the game have proceeded?",
+    "options": {
+      "a": "The ball might have landed in an empty area, allowing the batter to gain several bases, potentially leading to a significant shift in the game's momentum.",
+      "b": "There might have been a series of quick decisions by the fielders to regain control, possibly resulting in a dramatic play that could alter the course of the game.",
+      "c": "The game might continue with the batter running bases or the play could result in a score.",
+      "d": "The opposing team could have scrambled to retrieve the ball, which might have caused a delay and opened an opportunity for a strategic play by the batting team."
+    },
+    "answer": "c",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_JHHHuKeA-WQ",
+    "question": "What is the blindfold woman doing during the piñata event?",
+    "options": {
+      "a": "She is wearing a hat.",
+      "b": "She is singing a song.",
+      "c": "She is holding a stick.",
+      "d": "She is standing still."
+    },
+    "answer": "c",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_JHHHuKeA-WQ",
+    "question": "What happens when the girl tries to interact with the piñata?",
+    "options": {
+      "a": "The girl removes her blindfold before attempting to hit the piñata.",
+      "b": "The girl tries to hit the piñata that is moving around without success.",
+      "c": "The girl successfully hits the piñata on her first attempt.",
+      "d": "The piñata falls to the ground as the girl prepares to swing."
+    },
+    "answer": "b",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_JHHHuKeA-WQ",
+    "question": "Why does the girl decide to remove the blindfold after hitting the head of the piñata?",
+    "options": {
+      "a": "The blindfold was uncomfortable, and she thought removing it might help her aim better.",
+      "b": "She wanted to see the piñata better to hit it more accurately next time.",
+      "c": "After realizing the piñata's head was off, she thought it would be easier to hit without the blindfold.",
+      "d": "She removes the cloth from her eyes after hitting the head of the piñata."
+    },
+    "answer": "d",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_JHHHuKeA-WQ",
+    "question": "What might have happened if the piñata had not unexpectedly fallen?",
+    "options": {
+      "a": "The woman might have continued attempting to hit the piñata without success.",
+      "b": "The man might have taken more pictures of the woman as she continued trying.",
+      "c": "The girl might have eventually hit the piñata after several more attempts, gaining confidence with each swing, while the onlookers cheered her on.",
+      "d": "The piñata might have moved even more erratically, causing an extended game where everyone involved would have had to rethink their strategies and approaches."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_JHHHuKeA-WQ",
+    "question": "What is the girl most likely to do after she successfully hits the piñata on the floor?",
+    "options": {
+      "a": "She will likely pick up the treats or items that were inside the piñata.",
+      "b": "She could begin organizing a treasure hunt for the items, believing they are hidden around the area.",
+      "c": "She might start looking for another piñata to hit, thinking there is another one nearby.",
+      "d": "She may discuss organizing a new game with the attendees, considering the piñata event was too brief."
+    },
+    "answer": "a",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_4o8MaHTb7E4",
+    "question": "What does the athlete do during the long jump event?",
+    "options": {
+      "a": "The athlete jumps high in the sand box.",
+      "b": "The cameramen film the event.",
+      "c": "The athlete waits for an announcement.",
+      "d": "The gymnast walks in the sand box."
+    },
+    "answer": "a",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_4o8MaHTb7E4",
+    "question": "What does the gymnast do in the sand box during the event?",
+    "options": {
+      "a": "The athlete waits for an announcement before jumping.",
+      "b": "An athlete competes in the long jump, running fast and jumping high.",
+      "c": "An athlete jumps and celebrates with a flag.",
+      "d": "A gymnast runs but does not jump, only walks in the sand box."
+    },
+    "answer": "d",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_4o8MaHTb7E4",
+    "question": "Why does the athlete jump happily and raise his hands in victory?",
+    "options": {
+      "a": "The athlete jumps happily because he is practicing his long jump technique for future events, anticipating success.",
+      "b": "The athlete jumps happily because he is trying to encourage the crowd by showcasing his skills, hoping to inspire future athletes.",
+      "c": "The athlete jumps happily because he won the competition.",
+      "d": "The athlete jumps happily because he is imagining the possibility of winning a future event, visualizing his path to greatness."
+    },
+    "answer": "c",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_4o8MaHTb7E4",
+    "question": "What might have happened if the athlete had not known he won the competition?",
+    "options": {
+      "a": "The athlete could have mistaken the result announcements, thinking he lost, thus avoiding any celebratory actions.",
+      "b": "The athlete might have been too focused on the next event to realize his victory, leading to a missed celebration opportunity.",
+      "c": "The athlete might not have known he won and therefore would not have celebrated with the flag.",
+      "d": "The athlete would have stood still, confused, and waited for further announcements and instructions."
+    },
+    "answer": "c",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_4o8MaHTb7E4",
+    "question": "What might the gymnast do next after walking in the sand box?",
+    "options": {
+      "a": "The gymnast might begin evaluating their performance, considering each step and move they executed, to understand what went well and what could be improved for future competitions.",
+      "b": "The gymnast might take a moment to reflect on the competition, thinking about the support from their coaches and family, and the journey that led them to this point, filled with numerous challenges and triumphs.",
+      "c": "The gymnast might prepare for a medal ceremony or interview.",
+      "d": "The gymnast might start doing a complex routine to impress the judges, involving flips, twists, and turns, showcasing the skills they have honed over years of dedicated practice."
+    },
+    "answer": "c",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_eM2miz5uf8Q",
+    "question": "What happens when the man opens the icy car door?",
+    "options": {
+      "a": "Frost accumulates.",
+      "b": "Rain drips down.",
+      "c": "Ice forms.",
+      "d": "Snow falls off."
+    },
+    "answer": "d",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_eM2miz5uf8Q",
+    "question": "What did the man do after opening the car door?",
+    "options": {
+      "a": "He talked to the camera.",
+      "b": "He closed the door.",
+      "c": "He cleaned the mirror.",
+      "d": "He scraped the ice."
+    },
+    "answer": "a",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_eM2miz5uf8Q",
+    "question": "Why does the man scrape the ice off the driver's side window?",
+    "options": {
+      "a": "He wants to demonstrate the effectiveness of a new ice-scraping tool he recently purchased and plans to review it online for potential buyers.",
+      "b": "He enjoys the sound of scraping ice, which reminds him of winter holidays, and he wants to capture that nostalgic feeling by cleaning the window.",
+      "c": "He scrapes the ice to clear the window for visibility.",
+      "d": "He believes that removing ice from surfaces is a good way to exercise, as it engages multiple muscles, and he wants to maintain his fitness regime even in cold weather."
+    },
+    "answer": "c",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_eM2miz5uf8Q",
+    "question": "What might the man do after cleaning the car's side mirror?",
+    "options": {
+      "a": "He might decide to make a phone call to a friend, standing outside the car and chatting casually as he admires the freshly cleaned vehicle.",
+      "b": "He might enter the car to drive.",
+      "c": "He might start a snowball fight with someone nearby, engaging in a playful and spontaneous activity that breaks the monotony of his task.",
+      "d": "He might begin to clear the snow from the roof of the car, ensuring that the vehicle is completely free of any icy obstructions before he considers his task complete."
+    },
+    "answer": "b",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_eM2miz5uf8Q",
+    "question": "What would happen if the man did not scrape the ice off the driver's side window?",
+    "options": {
+      "a": "The man might decide to use the car's heater to melt the ice, which could take a significant amount of time and still leave patches of ice obstructing the view.",
+      "b": "The icy window could magically defrost itself due to the ambient temperature.",
+      "c": "The driver's side window might become completely transparent, allowing clear vision.",
+      "d": "The window would remain covered with ice, obstructing visibility."
+    },
+    "answer": "d",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_tBFX7g605Go",
+    "question": "What does the rabbit do after it stops licking its right side?",
+    "options": {
+      "a": "The rabbit lies down and closes its eyes for a short nap.",
+      "b": "The rabbit starts digging a small hole in the ground.",
+      "c": "The rabbit briefly faces forward and its left back foot scratches its left ear.",
+      "d": "The rabbit hops away quickly, turning its back to the camera."
+    },
+    "answer": "c",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_tBFX7g605Go",
+    "question": "What does the rabbit do after lifting its right paw?",
+    "options": {
+      "a": "The rabbit uses its right paw to brush the ground around it, looking for food.",
+      "b": "The rabbit hops around in a small circle before sitting back down and resting.",
+      "c": "The rabbit looks around cautiously for predators before resuming its activities.",
+      "d": "The rabbit lifts its right paw, scratches its right ear, and then licks that paw."
+    },
+    "answer": "d",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_tBFX7g605Go",
+    "question": "What action does the rabbit perform after it finishes licking its paws during its grooming routine?",
+    "options": {
+      "a": "The rabbit pauses momentarily to observe its surroundings with keen interest, as if anticipating an external stimulus.",
+      "b": "The rabbit hops around energetically on the grass after grooming itself, showing a burst of energy and playfulness.",
+      "c": "The rabbit decides to lie down and take a nap, feeling relaxed and content after its grooming session.",
+      "d": "The rabbit starts rubbing its face and ears with its front paws as part of its grooming routine, following the licking of its paws."
+    },
+    "answer": "d",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_tBFX7g605Go",
+    "question": "What might have happened if the rabbit had not scratched its ears during its grooming session?",
+    "options": {
+      "a": "If the rabbit had not scratched its ears, it might have remained still for a while, contemplating its next move or waiting for an external stimulus to prompt further action.",
+      "b": "If the rabbit had not scratched its ears, it might have continued focusing on grooming other parts of its body.",
+      "c": "If the rabbit had not scratched its ears, it might have found another distraction, like a nearby noise, to focus on instead.",
+      "d": "If the rabbit had not scratched its ears, it might have eventually decided to explore the surrounding area to find something more interesting to do, perhaps even looking for food or another rabbit."
+    },
+    "answer": "b",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_tBFX7g605Go",
+    "question": "What is the rabbit likely to do after it finishes grooming itself and sits still?",
+    "options": {
+      "a": "When the rabbit has completed its grooming session and is sitting still, it may contemplate the vastness of its habitat, considering whether to venture out for a stroll or simply bask in the tranquility of its environment.",
+      "b": "After the rabbit is done grooming itself and sits still, it is likely to remain resting or start another activity.",
+      "c": "Once the rabbit finishes grooming and sits still, it could decide to dig a burrow, meticulously creating a safe space underground, or it might choose to forage for food, searching for the freshest greens available.",
+      "d": "After the rabbit is done grooming itself, it might suddenly jump up and explore its surroundings, seeking new adventures and possibly interacting with other animals or objects nearby."
+    },
+    "answer": "b",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_sR3_5j8pUdI",
+    "question": "What action does the lady perform on the rowing machine?",
+    "options": {
+      "a": "The lady pushes buttons on the display of the machine.",
+      "b": "The lady pulls the cord of the rowing machine.",
+      "c": "The lady adjusts her paddle and straps her foot in.",
+      "d": "The lady puts the machine away."
+    },
+    "answer": "b",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_sR3_5j8pUdI",
+    "question": "What happens after the lady grabs the handle bar of the rowing machine?",
+    "options": {
+      "a": "After grabbing the handle bar of the machine, the lady pushes buttons on the display.",
+      "b": "She pauses for a moment and looks around the room before proceeding.",
+      "c": "She immediately starts rowing intensely without adjusting the machine.",
+      "d": "The lady checks her phone for messages before continuing her workout."
+    },
+    "answer": "a",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_sR3_5j8pUdI",
+    "question": "Why does the lady strap her foot in the paddle while using the rowing machine?",
+    "options": {
+      "a": "The lady ensures her foot is securely strapped because it is essential for maintaining the correct form, which helps in achieving optimal performance and preventing injuries.",
+      "b": "The lady uses the foot strap as a safety precaution to prevent any potential accidents during an intense workout session on the rowing machine.",
+      "c": "The lady straps her foot in the paddle to secure her position and ensure stability while using the rowing machine.",
+      "d": "The lady adjusts her foot strap to avoid slipping, which could result in an inefficient workout, and to maintain her balance while rowing."
+    },
+    "answer": "c",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_sR3_5j8pUdI",
+    "question": "What might happen if the lady does not push buttons on the display of the rowing machine?",
+    "options": {
+      "a": "If the lady did not push buttons on the display, she might not be able to set her desired workout program or intensity level.",
+      "b": "Should the lady forget to engage with the buttons on the display, she might end up using the machine without optimizing the settings, thus missing out on the benefits of a personalized workout experience.",
+      "c": "If the lady neglected to push the buttons on the display, she might find herself stuck in a default mode that doesn't align with her fitness goals, potentially leading to a less effective workout session.",
+      "d": "In the scenario where the lady bypasses the buttons on the display, she might inadvertently limit her ability to track progress and adjust settings, which could result in an unsatisfactory exercise routine that doesn't meet her expectations."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_sR3_5j8pUdI",
+    "question": "What might the lady do after putting the rowing machine away?",
+    "options": {
+      "a": "After putting the machine away, the lady might suddenly decide to call her friend for a long chat about their plans for the weekend, discussing what they might do if the weather is nice.",
+      "b": "After putting the machine away, the lady might start thinking about the nutritional benefits of a post-workout smoothie, considering whether to include spinach for an extra boost of iron.",
+      "c": "After putting the machine away, the lady might leave the exercise room or proceed to another workout activity.",
+      "d": "After putting the machine away, the lady might contemplate the intricacies of the rowing machine's design, pondering the engineering marvel that allows it to simulate rowing so effectively."
+    },
+    "answer": "c",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_zmmiX3_TJ84",
+    "question": "What is observed in the gymnasium after the initial kicks?",
+    "options": {
+      "a": "The people perform the kicks again.",
+      "b": "A new group of people joins the aerobics session.",
+      "c": "Participants start stretching exercises.",
+      "d": "The people begin a new dance routine."
+    },
+    "answer": "a",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_zmmiX3_TJ84",
+    "question": "Where are the people performing their activities?",
+    "options": {
+      "a": "The people are in a café.",
+      "b": "The people are in a gymnasium.",
+      "c": "The people are in a library.",
+      "d": "The people are in a park."
+    },
+    "answer": "b",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_zmmiX3_TJ84",
+    "question": "Why might the repetition of kicks be included in the dance aerobics routine in the gymnasium?",
+    "options": {
+      "a": "Including repetitive kicks in the routine could be a method to gradually build participants' endurance over time, ensuring they get accustomed to sustained physical activity.",
+      "b": "The instructor might have decided to include repetitive kicks to improve participants' coordination and balance.",
+      "c": "The kicks are likely repeated to match the rhythm of the music playing during the aerobics session.",
+      "d": "The repetition of kicks could be part of the dance aerobics routine to enhance exercise efficiency."
+    },
+    "answer": "d",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_zmmiX3_TJ84",
+    "question": "Based on the sequence of events in the video, what is likely to happen next?",
+    "options": {
+      "a": "The camera might pan to a new location, revealing a surprise twist in the ongoing activity.",
+      "b": "An instructor could possibly appear to explain the benefits of dance aerobics in detail.",
+      "c": "The participants may start a new dance routine, showcasing even more advanced moves.",
+      "d": "The video is likely to end."
+    },
+    "answer": "d",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_zmmiX3_TJ84",
+    "question": "What could have been different about the dance aerobics routine shown in the video?",
+    "options": {
+      "a": "The dance aerobics routine might have been shorter or less dynamic.",
+      "b": "The dance session might have been accompanied by a live band, adding a vibrant and dynamic atmosphere that could have enhanced the participants' energy and enthusiasm.",
+      "c": "The gymnasium could have been filled with more participants, making the session appear more crowded and energetic.",
+      "d": "The routine could have included a wide variety of complex dance moves, possibly involving intricate footwork and synchronized group patterns."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_vdq_xoRyxCU",
+    "question": "In the black and white video, what object is used by people riding the escalator?",
+    "options": {
+      "a": "Plastic trays",
+      "b": "Wooden boards",
+      "c": "Inflated tires",
+      "d": "Snow sleds"
+    },
+    "answer": "c",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_vdq_xoRyxCU",
+    "question": "What are people doing in a black and white scene?",
+    "options": {
+      "a": "They climb up the snow.",
+      "b": "They pull snow sleds.",
+      "c": "They walk down a tunnel.",
+      "d": "They ride an escalator."
+    },
+    "answer": "c",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_vdq_xoRyxCU",
+    "question": "What is the purpose of using inflated tires in the activity depicted in the black and white video?",
+    "options": {
+      "a": "They use inflated tires as a means to practice for potential emergency scenarios, ensuring everyone is well-prepared for unexpected situations in the snow.",
+      "b": "They use inflated tires to slide down the snow after reaching the top.",
+      "c": "They use inflated tires to carry their supplies up the snowy hill, ensuring everything remains dry and secure during the journey.",
+      "d": "They use inflated tires because it allows them to navigate through the tunnel with ease, preventing any accidents or injuries as they move along the path."
+    },
+    "answer": "b",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_vdq_xoRyxCU",
+    "question": "What might the individuals do after reaching the bottom of the snow slide?",
+    "options": {
+      "a": "They could join a group of friends to start a snowball fight, taking advantage of the fresh snow and their current location.",
+      "b": "They might decide to explore a different activity like building a snowman to enjoy the winter day in a new way.",
+      "c": "They might return to the starting point to slide again.",
+      "d": "They could take a break and have some hot cocoa to warm up."
+    },
+    "answer": "c",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_vdq_xoRyxCU",
+    "question": "If the individuals did not have inflated tires, what would be the most likely outcome?",
+    "options": {
+      "a": "They might struggle to slide down and instead walk down the snow.",
+      "b": "They would likely need to improvise with the available resources, potentially leading to a slower and more laborious descent, requiring significant effort and coordination among the group members.",
+      "c": "Without the inflated tires, they might resort to using traditional sleds, which could involve a more complicated and time-consuming process, including the possibility of building or finding such equipment on-site.",
+      "d": "They could possibly have to find an alternative method to descend, perhaps by attempting to create a makeshift sled from available materials, relying heavily on ingenuity and resourcefulness."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_Mz-yz0fQ_Hk",
+    "question": "What is the color of the woman's boat?",
+    "options": {
+      "a": "The woman's boat is yellow.",
+      "b": "The woman's boat is green.",
+      "c": "The woman's boat is red.",
+      "d": "The woman's boat is blue."
+    },
+    "answer": "d",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_Mz-yz0fQ_Hk",
+    "question": "What action does the woman take at the beginning of her boat journey?",
+    "options": {
+      "a": "The woman demonstrates tugging on the rope again.",
+      "b": "The woman tugs on the rope for the first time.",
+      "c": "The woman sits in her blue boat, preparing.",
+      "d": "The woman begins accelerating her boat through the waters."
+    },
+    "answer": "d",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_Mz-yz0fQ_Hk",
+    "question": "What causes the woman's boat to accelerate?",
+    "options": {
+      "a": "The woman's boat accelerates because she activated an advanced motor system that propels it efficiently.",
+      "b": "The woman's boat accelerates due to a sudden increase in water current, making it move swiftly across the surface.",
+      "c": "The woman's boat accelerates because she tugs on the rope.",
+      "d": "The woman's boat accelerates because the wind is strong and pushes it forward with great force."
+    },
+    "answer": "c",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_Mz-yz0fQ_Hk",
+    "question": "What might happen if the woman did not tug on the rope?",
+    "options": {
+      "a": "If the woman did not tug on the rope, the boat might not accelerate.",
+      "b": "Without the action of tugging on the rope, the woman might find herself in a situation where the boat remains stationary, leaving her to ponder other means of propulsion, such as using a paddle or relying on external forces like wind or currents.",
+      "c": "If the woman decided not to tug on the rope, the boat could potentially drift aimlessly in the water, lacking the necessary force to move forward, and she may have to find alternative methods to propel it.",
+      "d": "In the absence of the rope being tugged, the boat's acceleration could be hindered, causing the woman to consider other options for movement, which might include waiting for natural currents or seeking assistance from passing vessels."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_Mz-yz0fQ_Hk",
+    "question": "What is likely to happen next as the woman continues her actions with the boat?",
+    "options": {
+      "a": "The woman might consider stopping for a rest if she feels tired after repeated actions.",
+      "b": "The woman's boat is likely to accelerate one last time.",
+      "c": "The woman may choose to return to the shore if the weather becomes unfavorable or if she needs to conclude her journey.",
+      "d": "The woman could potentially decide to change her course and explore new areas if she sees something interesting."
+    },
+    "answer": "b",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_jVC3DZdphYM",
+    "question": "What does the man do while playing the harmonica?",
+    "options": {
+      "a": "The man places the harmonica on a stand while playing.",
+      "b": "The man plays the harmonica using only one hand.",
+      "c": "The man uses both hands to cover the harmonica while he plays.",
+      "d": "The man plays the harmonica without moving his body."
+    },
+    "answer": "c",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_jVC3DZdphYM",
+    "question": "What does the man do immediately after emoting with his eyebrows while playing the harmonica?",
+    "options": {
+      "a": "After emoting with his eyebrows while playing, the man stops playing and begins to talk to the camera using hand gestures.",
+      "b": "After emoting with his eyebrows while playing, the man continues to play the harmonica while moving back and forth.",
+      "c": "After emoting with his eyebrows while playing, the man pauses and explains the history of the harmonica in great detail before resuming his performance.",
+      "d": "After emoting with his eyebrows while playing, the man begins to play a new song on a different instrument."
+    },
+    "answer": "a",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_jVC3DZdphYM",
+    "question": "Why does the man use hand gestures while explaining how to play the harmonica?",
+    "options": {
+      "a": "The man uses hand gestures to create a visual rhythm that complements the musical notes, enhancing the viewer's understanding of the harmonica's versatility and emotional resonance.",
+      "b": "The man uses hand gestures to demonstrate the connection between physical movements and sound production, making the learning process more engaging and interactive for the audience.",
+      "c": "The man uses hand gestures to conduct an imaginary orchestra, providing the viewer with a sense of the grand scale of harmonica performances and the intricate interplay between musical elements.",
+      "d": "The man uses hand gestures to emphasize his points and to indicate the harmonica while explaining how to play it."
+    },
+    "answer": "d",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_jVC3DZdphYM",
+    "question": "What might the man do next after he finishes his harmonica demonstration?",
+    "options": {
+      "a": "The man might put down the harmonica and conclude the demonstration.",
+      "b": "The man might engage in an interactive Q&A session, answering potential questions from viewers about the harmonica, its maintenance, and playing techniques, thereby enhancing the educational value of the demonstration.",
+      "c": "The man might transition into a segment where he explores the historical context of the harmonica, delving into its origins and evolution over the years, thus offering the viewers a comprehensive understanding of the instrument's background.",
+      "d": "The man might start discussing various harmonica techniques, elaborating on how different hand positions can alter the sound, providing an in-depth analysis of the intricacies involved in harmonica playing."
+    },
+    "answer": "a",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_jVC3DZdphYM",
+    "question": "What might happen if the man did not use his hands to indicate the type of note while playing the harmonica?",
+    "options": {
+      "a": "If the man did not use his hands, the audience might be confused about the melody and could misinterpret the musical piece without visual cues to guide them through the intricacies of the harmonica performance.",
+      "b": "If the man did not use his hands to indicate the type of note, it would be less clear to the audience which notes he is playing and how he achieves them.",
+      "c": "In the absence of hand gestures indicating the type of note, viewers could potentially miss out on the nuanced aspects of harmonica playing, making it difficult for them to appreciate the full extent of the musical demonstration and the skills involved.",
+      "d": "Without the use of his hands to indicate notes, the educational value of the demonstration might significantly decrease, leaving viewers without the necessary understanding of the techniques being employed, thus affecting their learning experience."
+    },
+    "answer": "b",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_biyf6Q-xF0M",
+    "question": "What is the material of the building shown in the video?",
+    "options": {
+      "a": "The building is made of steel.",
+      "b": "The building is made of glass.",
+      "c": "The building is made of wood.",
+      "d": "The building is made of bricks."
+    },
+    "answer": "d",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_biyf6Q-xF0M",
+    "question": "What is the man doing with the pumpkins in the video?",
+    "options": {
+      "a": "He is observed selling and packaging the pumpkins for customers.",
+      "b": "He is seen carving and arranging the pumpkins for display.",
+      "c": "He is shown handing and stacking the pumpkins for the public.",
+      "d": "He is depicted decorating and placing the pumpkins for an event."
+    },
+    "answer": "c",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_biyf6Q-xF0M",
+    "question": "What is the significance of the pumpkin with the words 'we miss you Edgar'?",
+    "options": {
+      "a": "The words are part of a marketing campaign for a pumpkin festival.",
+      "b": "The words suggest that Edgar is traveling and will return soon.",
+      "c": "The words imply a community event is dedicated to Edgar's achievements and memory, which could be related to his passing or perhaps moving away, as the community seeks to honor his legacy in a meaningful way, potentially through annual gatherings or commemorations.",
+      "d": "The words indicate that the man, Edgar, had passed away."
+    },
+    "answer": "d",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_biyf6Q-xF0M",
+    "question": "What is a potential outcome following the man's passing, based on the tradition he established with the pumpkins?",
+    "options": {
+      "a": "A new holiday might be established in his honor, where everyone carves pumpkins and shares their stories about him, ensuring his legacy lives on for generations.",
+      "b": "The community might create a foundation in his name that focuses on promoting the art of pumpkin carving to inspire future generations and preserve the cultural heritage he left behind.",
+      "c": "The tradition might be continued by others in his memory.",
+      "d": "The pumpkins will be left uncarved in future years, as no one else can replicate his unique style and dedication, leading to the tradition fading away over time."
+    },
+    "answer": "c",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_biyf6Q-xF0M",
+    "question": "What might have happened if the man had not been involved in the pumpkin tradition?",
+    "options": {
+      "a": "Without his unique style and dedication, the event might have dwindled in popularity, and the community could have lost a cherished annual gathering, leading to a sense of loss and nostalgia for the days when he led the festivities.",
+      "b": "The public might not have gathered to watch, and the tradition might not have been as well-known.",
+      "c": "His absence could have resulted in a less vibrant celebration, where the lack of his artistic skills and personal connection to the community caused a significant drop in attendance, ultimately diminishing the cultural significance of the event.",
+      "d": "The pumpkins would have still been carved, but the event would have lacked the same charm and personal touch that his presence brought, leading to a decline in public interest and a potential end to the tradition over time."
+    },
+    "answer": "b",
+    "dimension": "Counterfactual"
+  },
+  {
+    "VideoID": "v_6f1HnAlpphA",
+    "question": "What action does the guy take after leaving the crowd?",
+    "options": {
+      "a": "The guy chases after a black cattle.",
+      "b": "The guy gets on his horse.",
+      "c": "The guy rides past the cattle.",
+      "d": "The cattle tries to raise."
+    },
+    "answer": "a",
+    "dimension": "Factual"
+  },
+  {
+    "VideoID": "v_6f1HnAlpphA",
+    "question": "What action does the guy perform immediately after getting off his horse?",
+    "options": {
+      "a": "The guy gets off his horse and ties the cattle's legs.",
+      "b": "He lassoes the cattle with precision and skill, demonstrating his expertise.",
+      "c": "The man on the dark horse rides past the cattle quickly and silently.",
+      "d": "He chases the black cattle swiftly while being cheered by a crowd."
+    },
+    "answer": "a",
+    "dimension": "Temporal"
+  },
+  {
+    "VideoID": "v_6f1HnAlpphA",
+    "question": "Why does the cattle try to raise after being tied?",
+    "options": {
+      "a": "The cattle tries to raise after being tied because it expects to be untied soon due to previous experiences where it was released shortly after being restrained.",
+      "b": "The cattle tries to raise after being tied because it wants to stand up.",
+      "c": "The cattle tries to raise after being tied because it anticipates that the person who tied it might have left it untied and it sees an opportunity to escape.",
+      "d": "The cattle tries to raise after being tied because it is a natural response to being restrained, as it instinctively attempts to regain its freedom and mobility despite the constraints."
+    },
+    "answer": "b",
+    "dimension": "Causal"
+  },
+  {
+    "VideoID": "v_6f1HnAlpphA",
+    "question": "What might occur if the cattle is not properly tied after being lassoed and its legs are bound?",
+    "options": {
+      "a": "The cattle could potentially grow wings and fly away, defying the laws of nature and physics.",
+      "b": "The cattle might eventually stand up or try to escape if not properly tied.",
+      "c": "The cattle will definitely remain still without any attempt to move or escape regardless of how it is tied.",
+      "d": "The cattle might summon a herd to rescue it, engaging in an elaborate and well-coordinated escape plan."
+    },
+    "answer": "b",
+    "dimension": "Predictive"
+  },
+  {
+    "VideoID": "v_6f1HnAlpphA",
+    "question": "What might have happened if the guy hadn't tied the cattle's legs?",
+    "options": {
+      "a": "If the guy hadn't tied the cattle's legs, the cattle might have run away.",
+      "b": "If the guy hadn't tied the cattle's legs, it might have wandered around aimlessly, finding new pastures, meeting new friends, and perhaps even discovering a new herd to join.",
+      "c": "If the guy hadn't tied the cattle's legs, the cattle might have started grazing peacefully nearby, not bothering anyone, and eventually wandered off into the sunset, mingling with other cattle.",
+      "d": "If the guy hadn't tied the cattle's legs, the cattle might have leisurely walked around the area, taking its time to explore the surroundings and eventually finding a quiet spot to rest."
+    },
+    "answer": "a",
+    "dimension": "Counterfactual"
+  }
+]
