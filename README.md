@@ -14,6 +14,23 @@ An automated system for generating and filtering Question-Answer (QA) pairs and 
 - Caption-Based QA Dataset
   - We turn video events into text captions to help the AI understand the story's flow and context.
 
+```
+ETRI3/
+├── Module/ 
+│   ├── utils/                 # QA 생성 모듈 
+├── Ours/                      # 커스텀 VLM/LLM
+│   ├── Train/
+│   │   ├── lnv-tuning.py       # LLaVA-NeXT-Video 학습습 스크립트
+│   │   └── Training_dataset.json # 학습용 데이터셋 포맷
+│   ├── Data_QA/
+│   ├── Module/                 # Tuned VLM/LLM 추론 관련 모듈듈
+│   ├── config.py               # Tuned VLM/LLM 전역 설정 파일
+│   └── run_pipeline.py         # Tuned VLM/LLM 추론 파이프라인 스크립트트
+├── config.py                   # QA 생성 프로젝트 전역 설정 파일
+├── Main.py                     # QA 생성 파이프라인인 스크립트트
+└── demo.py                     # 데모 시연용 스크립트
+```
+
 ### 1. Environment
 - Create conda virtual env
 ```bash
