@@ -16,9 +16,9 @@ An automated system for generating and filtering Question-Answer (QA) pairs and 
 
 ```
 ETRI3/
-├── Module/ 
-│   ├── utils/                 # QA 생성 모듈 
-├── Ours/                      # 커스텀 VLM/LLM
+├── Module/                     # QA 생성 모듈 
+│   └── utils/                 
+├── Ours/                       # 커스텀 VLM/LLM
 │   ├── Train/
 │   │   ├── lnv-tuning.py       # LLaVA-NeXT-Video 학습습 스크립트
 │   │   └── Training_dataset.json # 학습용 데이터셋 포맷
