@@ -136,28 +136,28 @@ Example
 ### 2-1. QA Generation Demo
 Demo
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/ca1baea0-0dc5-498c-abbe-abc529a2e391" width="100%" />
-      <br />
-      <sub>Input Video</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/20b21571-a901-48d7-8aff-49eb27f5d61f" width="100%" />
-      <br />
-      <sub>QA Generation</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/79bbf927-8fa8-41c4-bb1c-b1371dfca0db" width="100%" />
-      <br />
-      <sub>Key Frame Selection</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/56f99066-abfc-414b-8bc9-6a5ec77cfe61" width="100%" />
-      <br />
-      <sub>Rationale Generation & Final Results Check</sub>
-    </td>
-  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6061a2bd-5132-405e-9529-f3643ebb225e" width="100%" />
+      <br />
+      <sub>설명 1 (생략 가능)</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/25f18814-19bb-46e7-a3f3-0bc3041de7ce" width="100%" />
+      <br />
+      <sub>설명 2</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c8af2956-3db0-465e-aa8b-de3306a80a14" width="100%" />
+      <br />
+      <sub>설명 3</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/47bf56c0-63e1-4b03-88f5-64ae586e23c5" width="100%" />
+      <br />
+      <sub>설명 4</sub>
+    </td>
+  </tr>
 </table>
 
 
