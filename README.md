@@ -1,4 +1,4 @@
-# 시공간 정보 결합을 통한 관계 이해 및 저장 관리 기술
+# Spatiotemporal Intelligence for Relational Understanding and Memory Organization
 ---
 An automated system for generating and filtering Question-Answer (QA) pairs and rationales from video content. This project provides a comprehensive pipeline for creating high-quality QA datasets with supporting evidence from video materials.
 
